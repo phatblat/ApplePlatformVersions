@@ -28,7 +28,7 @@
 - 7 beta 4 (7A165t) - 2015-07-21
 - 7 beta 3 (7A152u) - 2015-07-08
 - 7 beta 2 (7A121l) - 2015-06-23
-- 7 beta 1 (7A120f) - 2015-06-08 [toolsVersion=“8121.17"]
+- 7 beta 1 (7A120f) - 2015-06-08 [toolsVersion=8121.17]
 
 ## 6
 
@@ -43,18 +43,18 @@
 ### 6.3
 
 - 6.3.2 (6D2105) - 2015-05-18
-- 6.3.2 GM seed (6D2102) - 2015-05-08 [toolsVersion=“7706"]
+- 6.3.2 GM seed (6D2102) - 2015-05-08 [toolsVersion=7706]
 - 6.3.1 (6D1002) - 2015-04-21
 - 6.3 (6D570) - 2015-04-08
 - 6.3 beta 4 (6D554n) - 2015-03-25
 - 6.3 beta 3 (6D543q) - 2015-03-12
-- 6.3 beta 2 (6D532l) - 2015-02-23 (toolsVersion=“7519.1")
+- 6.3 beta 2 (6D532l) - 2015-02-23 (toolsVersion=7519.1)
 - 6.3 beta 1 (6D520o) - 2015-02-09 (toolsVersion 6254?)
 
 ### 6.2
 
-- 6.2 (6C131e) - 2015-03-09 (toolsVersion=“6751”)
-- 6.2 beta 5 (6C121) - 2015-02-02 (toolsVersion=“6750")
+- 6.2 (6C131e) - 2015-03-09 (toolsVersion=6751)
+- 6.2 beta 5 (6C121) - 2015-02-02 (toolsVersion=6750)
 - 6.2 beta 4 (6C107a) - 2015-01-12
 - DVTPlugInCompatibilityUUID: FEC992CC-CA4A-4CFD-8881-77300FCB848A
 - 6.2 beta 3 (6C101) - 2014-12-18
@@ -64,22 +64,22 @@
 ### 6.1
 
 - 6.1.1 6A2008a - 2014-12-02
-- 6.1.1 GM 6A2006 - 2014-11-14 (toolsVersion=“6254")
-- 6.1 6A1052d - 2014-10-20 (toolsVersion=“6250")
+- 6.1.1 GM 6A2006 - 2014-11-14 (toolsVersion=6254)
+- 6.1 6A1052d - 2014-10-20 (toolsVersion=6250)
 - 6.1 6A1052c - 2014-10-16
-- 6.1 GM (seed 2) 6A1046a - 2014-10-07 (toolsVersion=“6249")
-- 6.1 GM (beta 3) 6A1042b - 2014-09-29 (toolsVersion=“6249")
+- 6.1 GM (seed 2) 6A1046a - 2014-10-07 (toolsVersion=6249)
+- 6.1 GM (beta 3) 6A1042b - 2014-09-29 (toolsVersion=6249)
 - 6.1 beta 2 6A1030 - 2014-09-15
 - 6.1 beta 1 6A1027 - 2014-09-09
 
 ### 6.0
 
-- 6.0.1 6A317 - 2014-09-17 (toolsVersion="6245")
-- 6 GM Seed 6A313 - 2014-09-09 (toolsVersion="6245")
+- 6.0.1 6A317 - 2014-09-17 (toolsVersion=6245)
+- 6 GM Seed 6A313 - 2014-09-09 (toolsVersion=6245)
 - 6 Beta7 6A280n - 2014-09-02 (toolsVersion=6206.9)
 - 6 [Beta6] 6A280e - 2014-08-18 (toolsVersion=6206.8)
 - first try: 6A280c
-- 6 [Beta5] - 6A279r (toolsVersion=“6205”) - 2014-08-05
+- 6 [Beta5] - 6A279r (toolsVersion=6205) - 2014-08-05
 - 6 [Beta4] - 6A267n - 2014-07-21
 - 6 [Beta3] - 6A254o - 2014-07-07
 - 6 [Beta2] - 6A216f (toolsVersion=6154.21) - 2014-06-17
@@ -92,7 +92,7 @@
 - 5.1.1 - 5B1008 (toolsVersion=5056) - 2014-04-04
 - 5.1 - 5B130a (toolsVersion=5053) - 2014-03-10 
 - 5.1 (Beta5) - 5B103i (toolsVersion=5051) - 2014-02-04
-- 5.1 (Beta4) - 5B90f (toolsVersion="5037.3") - 2014-01-20
+- 5.1 (Beta4) - 5B90f (toolsVersion=5037.3) - 2014-01-20
 - 5.1 (Beta3) - 5B71o (toolsVersion: 5037.2) - 2014-01-07
 - 5.1 (DP2) - 5B71f (toolsVersion: 5037) - 2013-12-13
 - 5.1 (DP) - 5B45j - 2013-11-18
