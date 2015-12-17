@@ -2,3 +2,6 @@
 *.xccheckout
 *.xcscmblueprint
 xcuserdata
+
+# Ulysses
+.Ulysses-Group.plist
