@@ -1,5 +1,7 @@
 # tvOS
 
+tvOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/tvos/download/).
+
 # 9
 
 ## 9.2

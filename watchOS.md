@@ -1,5 +1,7 @@
 # watchOS
 
+watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
+
 ## 2
 
 ### 2.2

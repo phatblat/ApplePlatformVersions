@@ -1,5 +1,7 @@
 # OS X
 
+OS X releases can be downloaded from [developer.apple.com](https://developer.apple.com/osx/download/).
+
 ## 10.11 "El Capitan"
 
 ### 10.11.4

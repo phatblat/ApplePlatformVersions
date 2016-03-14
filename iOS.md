@@ -1,5 +1,7 @@
 # iOS
 
+iOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/ios/download/).
+
 ## 9
 
 ### 9.3
