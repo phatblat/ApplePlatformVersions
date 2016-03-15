@@ -8,3 +8,6 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a-osx.pkg)
   - [Ubuntu 15.10](https://swift.org/builds/development/ubuntu1510/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a-ubuntu15.10.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a/swift-DEVELOPMENT-SNAPSHOT-2016-03-01-a-ubuntu14.04.tar.gz)
+
+- 2016-02-25
+  [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-02-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-02-25-a-osx.pkg)
