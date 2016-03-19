@@ -23,3 +23,6 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 - 2016-01-11
   [Apple Platforms](https://swift.org/builds/swift-2.2-branch/xcode/swift-2.2-SNAPSHOT-2016-01-11-a/swift-2.2-SNAPSHOT-2016-01-11-a-osx.pkg)
+
+- 2016-01-06
+  [Apple Platforms](https://swift.org/builds/swift-2.2-branch/xcode/swift-2.2-SNAPSHOT-2016-01-06-a/swift-2.2-SNAPSHOT-2016-01-06-a-osx.pkg)
