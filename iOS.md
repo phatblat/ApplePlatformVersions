@@ -6,6 +6,7 @@ iOS releases can be downloaded from [developer.apple.com](https://developer.appl
 
 ### 9.3
 
+- 9.3 beta 7 (13E5233a, 13E5234a) - 2016-03-14
 - 9.3 beta 6 (13E5231a) - 2016-03-07
 - 9.3 beta 5 (13E5225a) - 2016-03-01
 - 9.3 beta 4 (13E5214d) - 2016-02-22
