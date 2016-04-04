@@ -6,6 +6,7 @@ Xcode beta releases can be downloaded from [developer.apple.com](https://develop
 
 ### 7.3
 
+- 7.3 (7D175) - 2016-03-21
 - 7.3 beta 5 (7D162j) - 2016-03-01
 - 7.3 beta 4 (7D152p) - 2016-02-22
 - 7.3 beta 3 (7D141l) - 2016-02-08
