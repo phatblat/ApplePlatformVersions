@@ -6,6 +6,7 @@ tvOS releases can be downloaded from [developer.apple.com](https://developer.app
 
 ## 9.2
 
+- 9.2 (13Y234) - 2016-03-21
 - 9.2 beta 6 (13Y5232a) - 2016-03-10
 - 9.2 beta 5 (13Y5220c) - 2016-03-01
 - 9.2 beta 4 (13Y5210d) - 2016-02-22
