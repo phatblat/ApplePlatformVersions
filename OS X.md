@@ -4,6 +4,10 @@ OS X releases can be downloaded from [developer.apple.com](https://developer.app
 
 ## 10.11 "El Capitan"
 
+### 10.11.5
+
+- 10.11.5 beta 1 (15E27e) - 2016-04-06
+
 ### 10.11.4
 
 - 10.11.4 (15E65) - 2016-03-21
