@@ -1,11 +1,12 @@
 # Xcode
 
-Xcode beta releases can be downloaded from [developer.apple.com](https://developer.apple.com/xcode/download/). GA versions can be downloaded from the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12), or in .dmg format from the [Additional Tools](https://developer.apple.com/downloads/) area of the site.
+Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions can be downloaded from the [Mac App Store][2], or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 7
 
 ### 7.3
 
+- 7.3.1 (7D1014) - 2016-05-02
 - 7.3.1 GM seed (7D1012) - 2016-04-19
 - 7.3 (7D175) - 2016-03-21
 - 7.3 beta 5 (7D162j) - 2016-03-01
@@ -128,3 +129,7 @@ Xcode beta releases can be downloaded from [developer.apple.com](https://develop
 ## 4
 
 - 4.6.3 - 3084
+
+[1]:	https://developer.apple.com/xcode/download/
+[2]:	https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12
+[3]:	https://developer.apple.com/downloads/
