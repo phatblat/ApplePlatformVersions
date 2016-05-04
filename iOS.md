@@ -1,11 +1,12 @@
 # iOS
 
-iOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/ios/download/).
+iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 9
 
 ### 9.3
 
+- 9.3.2 beta 4 (13F68) - 2016-05-02
 - 9.3.2 beta 3 (13F65) - 2016-04-26
 - 9.3.2 beta 2 (13F61) - 2016-04-20
 - 9.3.2 beta 1 (13F51a) - 2016-04-06
@@ -22,7 +23,7 @@ iOS releases can be downloaded from [developer.apple.com](https://developer.appl
 
 ### 9.2
 
-- 9.2.1 (13D20 [fix for error 53](http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/)) - 2016-02-18
+- 9.2.1 (13D20 [fix for error 53][2]) - 2016-02-18
 - 9.2.1 (13D15) - 2016-01-19
 - 9.2.1 beta 2 (13D14) - 2016-01-04
 - 9.2.1 beta 1 (13D11) - 2015-12-16
@@ -118,3 +119,6 @@ iOS releases can be downloaded from [developer.apple.com](https://developer.appl
 - 7 beta 4 (11A4435d)
 - 7 beta 3 (11A4414e)
 - 7 beta 2 (11A4400f)
+
+[1]:	https://developer.apple.com/ios/download/
+[2]:	http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
