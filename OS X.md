@@ -6,6 +6,7 @@ OS X releases can be downloaded from [developer.apple.com](https://developer.app
 
 ### 10.11.5
 
+- 10.11.5 beta 2 (15F24b) - 2016-04-20
 - 10.11.5 beta 1 (15E27e) - 2016-04-06
 
 ### 10.11.4
