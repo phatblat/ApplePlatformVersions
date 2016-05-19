@@ -36,7 +36,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 - 2016-01-25
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-01-25-a-osx.pkg)
 
-## 2.2
+## 2.2.1
+
+- 2016-04-19
+  - [Apple Platforms](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1_GM_Seed.dmg) (Swift 2.2.1 is available as part of the Xcode 7.3.1 release)
+  - [Ubuntu 15.10](https://swift.org/builds/swift-2.2.1-release/ubuntu1510/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-2.2.1-release/ubuntu1404/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu14.04.tar.gz)
 
 - 2016-04-12
   - [Apple Platforms](https://swift.org/builds/swift-2.2-branch/xcode/swift-2.2.1-SNAPSHOT-2016-04-12-a/swift-2.2.1-SNAPSHOT-2016-04-12-a-osx.pkg)
@@ -48,8 +53,10 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 15.10](https://swift.org/builds/swift-2.2-branch/ubuntu1510/swift-2.2.1-SNAPSHOT-2016-03-28-a/swift-2.2.1-SNAPSHOT-2016-03-28-a-ubuntu15.10.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/swift-2.2-branch/ubuntu1404/swift-2.2.1-SNAPSHOT-2016-03-28-a/swift-2.2.1-SNAPSHOT-2016-03-28-a-ubuntu14.04.tar.gz)
 
+## 2.2
+
 - **2016-03-21**
-  - [Apple Platforms](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg) (Swift 2.2 is available as part of Xcode 7.3 release)
+  - [Apple Platforms](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg) (Swift 2.2 is available as part of the Xcode 7.3 release)
   - [Ubuntu 15.10](https://swift.org/builds/swift-2.2-release/ubuntu1510/swift-2.2-RELEASE/swift-2.2-RELEASE-ubuntu15.10.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/swift-2.2-release/ubuntu1404/swift-2.2-RELEASE/swift-2.2-RELEASE-ubuntu14.04.tar.gz)
 
