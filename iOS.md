@@ -7,6 +7,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 ### 9.3
 
 - 9.3.3 beta 1 (13G12) - 2016-05-23
+- _9.3.2_ (13F72 [fix for error 56][3]) - 2016-06-02
 - **9.3.2** (13F69) - 2016-05-16
 - 9.3.2 beta 4 (13F68) - 2016-05-02
 - 9.3.2 beta 3 (13F65) - 2016-04-26
@@ -124,3 +125,4 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 [1]:	https://developer.apple.com/ios/download/
 [2]:	http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
+[3]:	http://www.macrumors.com/2016/06/02/apple-releases-ios-9-3-2-for-9-7-ipad-pro/
