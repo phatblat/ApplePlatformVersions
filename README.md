@@ -5,7 +5,7 @@ I've been maintaining a list of versions of Xcode and the various Apple platform
 - [Xcode][1]
 - [Swift][2]
 - [iOS][3]
-- [OS X][4]
+- [macOS][4]
 - [watchOS][5]
 - [tvOS][6]
 
@@ -16,7 +16,7 @@ This repo is licensed under the MIT License. See the [LICENSE][7] file for right
 [1]:	Xcode.md
 [2]:	Swift.md
 [3]:	iOS.md
-[4]:	OS%20X.md
+[4]:	macOS.md
 [5]:	watchOS.md
 [6]:	tvOS.md
 [7]:	LICENSE.md

@@ -1,6 +1,6 @@
-# OS X
+# macOS
 
-OS X releases can be downloaded from [developer.apple.com][1].
+macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.11 "El Capitan"
 
