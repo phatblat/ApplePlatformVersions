@@ -4,6 +4,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 3
 
+- 2016-08-05 **Swift 3 Preview 4**
+  - [Apple Platforms](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_8_beta_4/Xcode_8_beta_4.xip) (Swift 3.0 Preview 4 is available as part of the Xcode 8.0 beta 4)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a-osx.pkg)
+  - [Ubuntu 15.10](https://swift.org/builds/swift-3.0-preview-4/ubuntu1510/swift-3.0-PREVIEW-4/swift-3.0-PREVIEW-4-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.0-preview-4/ubuntu1404/swift-3.0-PREVIEW-4/swift-3.0-PREVIEW-4-ubuntu14.04.tar.gz)
+
 - 2016-08-04
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a-osx.pkg)
   - [Ubuntu 15.10](https://swift.org/builds/development/ubuntu1510/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a/swift-DEVELOPMENT-SNAPSHOT-2016-08-04-a-ubuntu15.10.tar.gz)
@@ -19,7 +25,7 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 14.04](https://swift.org/builds/swift-3.0-preview-3/ubuntu1404/swift-3.0-PREVIEW-3/swift-3.0-PREVIEW-3-ubuntu14.04.tar.gz)
 
 - 2016-07-18 **Swift 3 Preview 3**
-  - [Apple Platforms](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_8_beta_3/Xcode_8_beta_3.xip) (Swift 3.0 Preview 2 is available as part of the Xcode 8.0 beta 2)
+  - [Apple Platforms](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_8_beta_3/Xcode_8_beta_3.xip) (Swift 3.0 Preview 3 is available as part of the Xcode 8.0 beta 3)
 
 - 2016-07-25
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-07-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-07-25-a-osx.pkg)
