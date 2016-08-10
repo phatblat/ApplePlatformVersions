@@ -6,6 +6,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.0
 
+- 10 beta 5 (14T5321a) - 2016-08-09
 - 10 beta 4 (14T5308d) - 2016-08-01
 - 10 beta 3 (14T5296d) - 2016-07-18
 - 10 beta 2 (14T5284d) - 2016-07-05
