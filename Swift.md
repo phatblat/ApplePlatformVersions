@@ -4,6 +4,11 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 3
 
+- 2016-09-11
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a-osx.pkg)
+  - [Ubuntu 15.10](https://swift.org/builds/development/ubuntu1510/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a/swift-DEVELOPMENT-SNAPSHOT-2016-09-11-a-ubuntu14.04.tar.gz)
+
 - 2016-09-07  **Swift 3 GM Candidate**
   - [Apple Platforms](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_8_GM_seed/Xcode_8_GM_seed.xip) (Swift 3.0 GM Candidate is available as part of the Xcode 8.0 GM seed)
   - [Ubuntu 15.10](https://swift.org/builds/swift-3.0-GM-CANDIDATE/ubuntu1510/swift-3.0-GM-CANDIDATE/swift-3.0-GM-CANDIDATE-ubuntu15.10.tar.gz)
