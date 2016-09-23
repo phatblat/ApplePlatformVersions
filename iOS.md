@@ -10,6 +10,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.0
 
+- 10.0.2 (14A456) - 2016-09-23
 - **10.0.1** (14A403) - 2016-09-12
 - 10.0.1 GM seed (14A403) - 2016-09-07
 - 10 beta 8 (14A5346a) - 2016-08-22
