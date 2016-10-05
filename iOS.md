@@ -6,6 +6,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.1
 
+- 10.1 beta 2 (14B67) - 2016-10-04
 - 10.1 beta 1 (14B55c) - 2016-09-21
 
 ### 10.0
