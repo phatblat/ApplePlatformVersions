@@ -14,6 +14,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.0
 
+- 10.0.3 (14A551 [iPhone 7/Plus only](4)) -  2016-10-17
 - 10.0.2 (14A456) - 2016-09-23
 - **10.0.1** (14A403) - 2016-09-12
 - 10.0.1 GM seed (14A403) - 2016-09-07
@@ -157,3 +158,4 @@ iOS releases can be downloaded from [developer.apple.com][1].
 [1]:	https://developer.apple.com/ios/download/
 [2]:	http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
 [3]:	http://www.macrumors.com/2016/06/02/apple-releases-ios-9-3-2-for-9-7-ipad-pro/
+[4]:	http://www.forbes.com/sites/amitchowdhry/2016/10/17/apple-ios-10-0-3-update/#51aa9ae97d53
