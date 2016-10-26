@@ -4,6 +4,19 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 3.0.1
 
+- 2016-10-25 **Swift 3.0.1 GM Candidate**
+  - [Apple Platforms](https://developer.apple.com//services-account/download?path=/Developer_Tools/Xcode_8.1_GM_Seed/Xcode_8.1_GM_Seed.xip) (Swift 3.0.1 GM Candidate is available as part of Xcode 8.1 GM Seed)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.0.1-GM-CANDIDATE/ubuntu1604/swift-3.0.1-GM-CANDIDATE/swift-3.0.1-GM-CANDIDATE-ubuntu16.04.tar.gz)
+  - [Ubuntu 15.10](https://swift.org/builds/swift-3.0.1-GM-CANDIDATE/ubuntu1510/swift-3.0.1-GM-CANDIDATE/swift-3.0.1-GM-CANDIDATE-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.0.1-GM-CANDIDATE/ubuntu1404/swift-3.0.1-GM-CANDIDATE/swift-3.0.1-GM-CANDIDATE-ubuntu14.04.tar.gz)
+
+- 2016-10-25
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 15.10](https://swift.org/builds/development/ubuntu1510/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-25-a-ubuntu14.04.tar.gz)
+
 - 2016-10-21
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-10-21-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-21-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2016-10-21-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-21-a-ubuntu16.10.tar.gz)
