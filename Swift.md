@@ -11,6 +11,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 15.10](https://swift.org/builds/development/ubuntu1510/swift-DEVELOPMENT-SNAPSHOT-2016-10-31-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-31-a-ubuntu15.10.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-10-31-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-31-a-ubuntu14.04.tar.gz)
 
+- 2016-10-28 **Swift 3.0.1**
+  - [Apple Platforms](https://developer.apple.com//services-account/download?path=/Developer_Tools/Xcode_8.1/Xcode_8.1.xip) (Swift 3.0.1 is available as part of Xcode 8.1)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.0.1-release/ubuntu1604/swift-3.0.1-RELEASE/swift-3.0.1-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 15.10](https://swift.org/builds/swift-3.0.1-release/ubuntu1510/swift-3.0.1-RELEASE/swift-3.0.1-RELEASE-ubuntu15.10.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.0.1-release/ubuntu1404/swift-3.0.1-RELEASE/swift-3.0.1-RELEASE-ubuntu14.04.tar.gz)
+
 - 2016-10-27
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-10-27-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-27-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2016-10-27-a/swift-DEVELOPMENT-SNAPSHOT-2016-10-27-a-ubuntu16.10.tar.gz)
