@@ -2,6 +2,17 @@
 
 Swift development snapshots can be downloaded from [swift.org](https://swift.org/download/#latest-development-snapshots).
 
+## 3.0.2
+
+- 2016-11-15 **Swift 3.0.2 Preview 1**
+  - [Apple Platforms](https://developer.apple.com//services-account/download?path=/Developer_Tools/Xcode_8.2_beta_2/Xcode_8.2_beta_2.xip) (Swift 3.0.2 is available as part of Xcode 8.2 beta 2)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.0.2-preview-1/ubuntu1604/swift-3.0.2-PREVIEW-1/swift-3.0.2-PREVIEW-1-ubuntu16.04.tar.gz)
+
+- 2016-11-15
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a/swift-DEVELOPMENT-SNAPSHOT-2016-11-15-a-ubuntu16.04.tar.gz)
+
 ## 3.0.1
 
 - 2016-11-11
