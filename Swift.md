@@ -2,7 +2,20 @@
 
 Swift development snapshots can be downloaded from [swift.org](https://swift.org/download/#latest-development-snapshots).
 
+## trunk
+
+- 2016-12-13
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a/swift-DEVELOPMENT-SNAPSHOT-2016-12-13-a-ubuntu14.04.tar.gz)
+
 ## 3.0.2
+
+- 2016-12-13 **Swift 3.0.2**
+  - [Apple Platforms](https://developer.apple.com//services-account/download?path=/Developer_Tools/Xcode_8.2/Xcode_8.2.xip) (Swift 3.0.2 is available as part of Xcode 8.2)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.0.2-release/ubuntu1604/swift-3.0.2-RELEASE/swift-3.0.2-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.0.2-release/ubuntu1404/swift-3.0.2-RELEASE/swift-3.0.2-RELEASE-ubuntu14.04.tar.gz)
 
 - 2016-12-09
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2016-12-07-a/swift-DEVELOPMENT-SNAPSHOT-2016-12-07-a-osx.pkg)
