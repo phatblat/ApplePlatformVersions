@@ -4,6 +4,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.12 "Sierra"
 
+### 10.12.3
+
+- 10.12.3 beta 1 (16D12b) - 2016-12-14
+
 ### 10.12.2
 
 - 10.12.2 (16C67) - 2016-12-13
