@@ -6,6 +6,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.12.3
 
+- **10.12.3** (16D32) - 2017-01-23
 - 10.12.3 beta 4 (16D30a) - 2017-01-12
 - 10.12.3 beta 3 (16D25a) - 2017-01-10
 - 10.12.3 beta 2 (16D17a) - 2016-12-20
