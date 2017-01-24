@@ -6,6 +6,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 3.1
 
+- **3.1.3** (14S960) - 2017-01-23
 - 3.1.3 beta 2 (14S959) - 2017-01-10
 - 3.1.3 beta 1 (14S958) - 2016-12-21
 - 3.1.1 (14S883) - 2016-12-12
