@@ -4,6 +4,10 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 ## 8
 
+### 8.3
+
+- 8.3 beta 1 (8W109m) - 2017-01-24
+
 ### 8.2
 
 - 8.2.1 (8C1002) - 2016-12-19
