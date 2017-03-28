@@ -126,8 +126,11 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 3.1
 
-- 2017-03-27 **Swift 3.1** - available as part of Xcode 8.3
-  - [Apple Platforms](http://adcdownload.apple.com/Developer_Tools/Xcode_8.3/Xcode_8.3.xip)
+- 2017-03-27 **Swift 3.1**
+  - [Apple Platforms](http://adcdownload.apple.com/Developer_Tools/Xcode_8.3/Xcode_8.3.xip) (Swift 3.1 is available as part of Xcode 8.3)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-3.1-release/ubuntu1610/swift-3.1-RELEASE/swift-3.1-RELEASE-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.1-release/ubuntu1604/swift-3.1-RELEASE/swift-3.1-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.1-release/ubuntu1404/swift-3.1-RELEASE/swift-3.1-RELEASE-ubuntu14.04.tar.gz)
 
 - 2017-03-24
   - [Apple Platforms](https://swift.org/builds/swift-3.1-branch/xcode/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-03-24-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-03-24-a-osx.pkg)
