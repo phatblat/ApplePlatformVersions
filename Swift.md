@@ -326,6 +326,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 3.1
 
+- 2017-06-02
+  - [Apple Platforms](https://swift.org/builds/swift-3.1-branch/xcode/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-3.1-branch/ubuntu1610/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-3.1-branch/ubuntu1604/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-3.1-branch/ubuntu1404/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu14.04.tar.gz)
+
 - 2017-06-01
   - [Apple Platforms](https://swift.org/builds/swift-3.1-branch/xcode/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-01-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/swift-3.1-branch/ubuntu1610/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-3.1-DEVELOPMENT-SNAPSHOT-2017-06-01-a-ubuntu16.10.tar.gz)
