@@ -2,6 +2,14 @@
 
 iOS releases can be downloaded from [developer.apple.com][1].
 
+## 11
+
+### 11.0
+
+- 11.0 beta 1 (15A5278f) - 2017-06-05
+
+-----
+
 ## 10
 
 ### 10.3
@@ -65,6 +73,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 10 beta 2 (14A5297c) - 2016-07-05
 - 10 beta 1 (14A5261v) - 2016-06-13
 
+-----
+
 ## 9
 
 ### 9.3
@@ -127,6 +137,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 9 beta 2 (13A4280e) - 2015-06-23
 - 9 beta 1 (13A4254v) - 2015-06-08
 
+-----
+
 ## 8
 
 ### 8.4
@@ -172,6 +184,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 8.0 beta 3 (12A4318c) - 2014-07-07
 - 8.0 beta 2 (12A4297e) - 2014-06-17
 - 8.0 beta 1 (12A4265u) - 2014-06-02
+
+-----
 
 ## 7
 
