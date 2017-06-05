@@ -2,6 +2,14 @@
 
 macOS releases can be downloaded from [developer.apple.com][1].
 
+## 10.13 "High Sierra"
+
+### 10.13.0
+
+- 10.13.0 beta 1 (17A264c) - 2017-06-05
+
+-----
+
 ## 10.12 "Sierra"
 
 ### 10.12.6
@@ -68,6 +76,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.12.0 beta 3 (16A254g) - 2016-07-18
 - 10.12.0 beta 2 (16A239j) - 2016-07-05
 - 10.12.0 beta 1 (16A201w) - 2016-06-13
+
+-----
 
 ## 10.11 "El Capitan"
 
@@ -138,6 +148,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.11 beta 2 (15A204h) - 2015-06-23
 - 10.11 beta 1 (15A178w) - 2015-06-08
 
+-----
+
 ## 10.10 "Yosemite"
 
 ### 10.10.4
@@ -187,6 +199,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.10 (14A261i) DP2 - 2014-06-17
 - 10.10 (14A238x) DP1 - 2014-06-02
 
+-----
+
 ## 10.9 "Mavericks"
 
 - 10.9.5 (13F34)
@@ -205,6 +219,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.9 (DP3) - 13A510d - 2013-07-08
 - 10.9 (DP2) - 13A497d - 2013-06-24
 - 10.9 (DP1) - 13A476u - 2013-06-10
+
+-----
 
 ## 10.8 "Mountain Lion"
 
