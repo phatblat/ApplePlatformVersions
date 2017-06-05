@@ -2,6 +2,14 @@
 
 Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions can be downloaded from the [Mac App Store][2], or in .dmg format from the [Additional Tools][3] area of the site.
 
+## 9
+
+### 9.0
+
+- 9.0 beta 1 (9M136h) - 2017-06-05
+
+-----
+
 ## 8
 
 ### 8.3
@@ -40,6 +48,8 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 - 8 beta 3 (8S174q) - 2016-07-18
 - 8 beta 2 (8S162m) - 2016-07-05
 - 8 beta 1 (8S128d) - 2016-06-13
+
+-----
 
 ## 7
 
@@ -82,6 +92,8 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 - 7 beta 3 (7A152u) - 2015-07-08
 - 7 beta 2 (7A121l) - 2015-06-23
 - 7 beta 1 (7A120f) - 2015-06-08 [toolsVersion=8121.17]
+
+-----
 
 ## 6
 
@@ -138,12 +150,14 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 - 6 [Beta2] - 6A216f (toolsVersion=6154.21) - 2014-06-17
 - 6 [Beta1] - 6A215l (toolsVersion=6154.17) - 2014-06-02
 
+-----
+
 ## 5
 
 ### 5.1
 
 - 5.1.1 - 5B1008 (toolsVersion=5056) - 2014-04-04
-- 5.1 - 5B130a (toolsVersion=5053) - 2014-03-10 
+- 5.1 - 5B130a (toolsVersion=5053) - 2014-03-10
 - 5.1 (Beta5) - 5B103i (toolsVersion=5051) - 2014-02-04
 - 5.1 (Beta4) - 5B90f (toolsVersion=5037.3) - 2014-01-20
 - 5.1 (Beta3) - 5B71o (toolsVersion: 5037.2) - 2014-01-07
@@ -164,6 +178,8 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 - 5.0 (DP3) - 5A11344j - 2013-07-08
 - 5.0 (DP2) - 5A11315e - 2013-06-24
 - 5.0 (DP1) - 5A11314m - 2013-06-10
+
+-----
 
 ## 4
 
