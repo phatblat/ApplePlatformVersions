@@ -17,6 +17,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.3
 
+- **10.3.3** (14G60) - 2017-07-19
 - [10.3.3 beta 6](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jul_5_2017/iOS_10.3.3_beta_6_Release_Notes.pdf) (14G57 | 14G58) - 2017-07-05
 - [10.3.3 beta 5](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jun_28_2017/iOS_10.3.3_beta_5_Release_Notes.pdf) (14G5057a) - 2017-06-28
 - [10.3.3 beta 4](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jun_22_2017/iOS_10.3.3_beta_4_Release_Notes.pdf) (?) - 2017-06-22
