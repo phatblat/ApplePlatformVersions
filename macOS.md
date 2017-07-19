@@ -17,6 +17,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.12.6
 
+- **10.12.6** (16G29) - 2017-07-19
 - [10.12.6 beta 6](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jul_5_2017/macOS_10.12.6_beta_6_Release_Notes.pdf) (16G24b) - 2017-07-05
 - 10.12.6 beta 5 (16G23a) - 2017-06-28
 - 10.12.6 beta 4 (16G18a) - 2017-06-19
