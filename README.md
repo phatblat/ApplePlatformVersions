@@ -1,9 +1,14 @@
-# Apple Software Versions
+# Apple Platform Versions
 
-I've been maintaining a list of versions of Xcode and the various Apple platforms for myself for a while. One day I decided to get this out of Evernote and figured others could benefit from this info. The repo is generically named so as to allow for other pieces of software. Apple releases many different software packages, this repo currently tracks only the following:
+Recent history of platforms developed by Apple. Also includes Apple-managed build tools for these platforms.
+
+## Build Tools
 
 - [Xcode][1]
 - [Swift][2]
+
+## Platforms
+
 - [iOS][3]
 - [macOS][4]
 - [watchOS][5]
