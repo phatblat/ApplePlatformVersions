@@ -1,6 +1,6 @@
 # Apple Platform Versions
 
-Recent history of platforms developed by Apple. Also includes Apple-managed build tools for these platforms.
+Recent history of platforms developed by Apple, including Apple-managed build tools for these platforms.
 
 ## Build Tools
 
