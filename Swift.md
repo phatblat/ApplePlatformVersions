@@ -5,40 +5,40 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 ## 4.0
 
 - 2017-07-28
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2817-07-28-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu14.04.tar.gz)
 
 - 2017-07-27
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2717-07-27-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu14.04.tar.gz)
 
 - 2017-07-25
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2517-07-25-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-25-a-ubuntu14.04.tar.gz)
 
 - 2017-07-24
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2417-07-24-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu14.04.tar.gz)
 
 - 2017-07-23
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2317-07-23-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu14.04.tar.gz)
 
 - 2017-07-22
-  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2217-07-22-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu14.04.tar.gz)
 
 - 2017-07-20
   - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-20-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-07-20-a-osx.pkg)
@@ -175,238 +175,238 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-30-a-ubuntu14.04.tar.gz)
 
 - 2017-07-28
-  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2817-07-28-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-28-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-28-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-28-a-ubuntu14.04.tar.gz)
 
 - 2017-07-27
-  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2717-07-27-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-27-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-27-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-27-a-ubuntu14.04.tar.gz)
 
 - 2017-07-24
-  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2417-07-24-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-24-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-24-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-24-a-ubuntu14.04.tar.gz)
 
 - 2017-07-23
-  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2317-07-23-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-23-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-23-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-23-a-ubuntu14.04.tar.gz)
 
 - 2017-07-22
-  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a-osx.pkg)
-  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2217-07-22-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-22-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-22-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-22-a-ubuntu14.04.tar.gz)
 
 - 2017-07-20
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-20-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-20-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-20-a-ubuntu14.04.tar.gz)
 
 - 2017-07-19
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-19-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-19-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-19-a-ubuntu14.04.tar.gz)
 
 - 2017-07-13
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-13-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-13-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-13-a-ubuntu14.04.tar.gz)
 
 - 2017-07-12
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-12-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-12-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-12-a-ubuntu14.04.tar.gz)
 
 - 2017-07-11
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-11-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-11-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-11-a-ubuntu14.04.tar.gz)
 
 - 2017-07-10
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-10-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-10-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-10-a-ubuntu14.04.tar.gz)
 
 - 2017-07-09
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-09-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-09-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-09-a-ubuntu14.04.tar.gz)
 
 - 2017-07-07
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-07-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-07-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-07-a-ubuntu14.04.tar.gz)
 
 - 2017-07-06
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-06-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-06-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-06-a-ubuntu14.04.tar.gz)
 
 - 2017-07-05
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-05-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-05-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-05-a-ubuntu14.04.tar.gz)
 
 - 2017-07-04
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-04-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-04-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-04-a-ubuntu14.04.tar.gz)
 
 - 2017-07-02
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-02-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-02-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-02-a-ubuntu14.04.tar.gz)
 
 - 2017-07-01
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-07-01-a/swift-DEVELOPMENT-SNAPSHOT-3117-07-01-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-07-01-a-ubuntu14.04.tar.gz)
 
 - 2017-06-30
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-30-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-30-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-30-a-ubuntu14.04.tar.gz)
 
 - 2017-06-29
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-29-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-29-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-29-a-ubuntu14.04.tar.gz)
 
 - 2017-06-27
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-27-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-27-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-27-a-ubuntu14.04.tar.gz)
 
 - 2017-06-26
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-26-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-26-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-26-a-ubuntu14.04.tar.gz)
 
 - 2017-06-25
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-25-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-25-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-25-a-ubuntu14.04.tar.gz)
 
 - 2017-06-23
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-23-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-23-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-23-a-ubuntu14.04.tar.gz)
 
 - 2017-06-22
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-22-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-22-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-22-a-ubuntu14.04.tar.gz)
 
 - 2017-06-19
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-19-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-19-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-19-a-ubuntu14.04.tar.gz)
 
 - 2017-06-17
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-17-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-17-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-17-a-ubuntu14.04.tar.gz)
 
 - 2017-06-16
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-16-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-16-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-16-a-ubuntu14.04.tar.gz)
 
 - 2017-06-12
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-12-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-12-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-12-a-ubuntu14.04.tar.gz)
 
 - 2017-06-11
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-11-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-11-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-11-a-ubuntu14.04.tar.gz)
 
 - 2017-06-09
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-09-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-09-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-09-a-ubuntu14.04.tar.gz)
 
 - 2017-06-08
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-08-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-08-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-08-a-ubuntu14.04.tar.gz)
 
 - 2017-06-07
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-07-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-07-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-07-a-ubuntu14.04.tar.gz)
 
 - 2017-06-05
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-05-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-05-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-05-a-ubuntu14.04.tar.gz)
 
 - 2017-06-03
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-03-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-03-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-03-a-ubuntu14.04.tar.gz)
 
 - 2017-06-02
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-02-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-02-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-02-a-ubuntu14.04.tar.gz)
 
 - 2017-06-01
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-06-01-a/swift-DEVELOPMENT-SNAPSHOT-3117-06-01-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a/swift-DEVELOPMENT-SNAPSHOT-2017-06-01-a-ubuntu14.04.tar.gz)
 
 - 2017-05-31
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3117-05-31-a/swift-DEVELOPMENT-SNAPSHOT-3117-05-31-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-31-a-ubuntu14.04.tar.gz)
 
 - 2017-05-30
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a-ubuntu16.10.tar.gz)
   - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-3017-05-30-a/swift-DEVELOPMENT-SNAPSHOT-3017-05-30-a-ubuntu14.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-30-a-ubuntu14.04.tar.gz)
 
 - 2017-05-29
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2017-05-29-a/swift-DEVELOPMENT-SNAPSHOT-2017-05-29-a-osx.pkg)
