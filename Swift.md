@@ -80,6 +80,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 4.0 Development
 
+- 2017-11-18
+  - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.0-branch/ubuntu1604/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-18-a-ubuntu14.04.tar.gz)
+
 - 2017-11-09
   - [Apple Platforms](https://swift.org/builds/swift-4.0-branch/xcode/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-09-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-09-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/swift-4.0-branch/ubuntu1610/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-09-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-11-09-a-ubuntu16.10.tar.gz)
