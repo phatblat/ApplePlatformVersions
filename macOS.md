@@ -4,6 +4,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.13 "High Sierra"
 
+### 10.13.3
+
+- [10.13.3 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Dec_11_2017/macOS_10.13.3_beta_Release_Notes.pdf) (17D20a) - 2017-12-11
+
 ### 10.13.2
 
 - **10.13.2** (17C88) - 2017-12-06
