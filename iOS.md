@@ -6,6 +6,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 11.2
 
+- [11.2.5 beta 4](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jan_9_2018/iOS_11.2.5_beta_4_Release_Notes.pdf) (15D5054a) - 2018-01-09
 - [11.2.5 beta 3](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jan_03_2018/iOS_11.2.5_beta_3_Release_Notes.pdf) (15D5049a) - 2018-01-03
 - [11.2.5 beta 2](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Dec_19_2017/iOS_11.2.5_beta_2_Release_Notes.pdf) (15D5046b) - 2017-12-19
 - [11.2.5 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Dec_13_2017/iOS_11.2.5_beta_Release_Notes.pdf) (15D5037e) - 2017-12-13
