@@ -4,6 +4,9 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 4.1 Development
 
+- 2018-01-18
+  - [Apple Platforms](https://swift.org/builds/swift-4.1-branch/xcode/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-18-a/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-18-a-osx.pkg)
+
 - 2018-01-17
   - [Apple Platforms](https://swift.org/builds/swift-4.1-branch/xcode/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-17-a/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-17-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/swift-4.1-branch/ubuntu1610/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-17-a/swift-4.1-DEVELOPMENT-SNAPSHOT-2018-01-17-a-ubuntu16.10.tar.gz)
