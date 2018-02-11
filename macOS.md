@@ -6,6 +6,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.13.4
 
+- [10.13.4 beta 2 'Update 1'](https://download.developer.apple.com/Documentation/macOS_10.13.4_beta_2_Release_Notes/macOS_10.13.4_beta_2_Release_Notes.pdf) (17E150g) - 2018-02-08
 - [10.13.4 beta 2](https://download.developer.apple.com/Documentation/macOS_10.13.4_beta_2_Release_Notes/macOS_10.13.4_beta_2_Release_Notes.pdf) (17E150f) - 2018-02-06
 - [10.13.4 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jan_24_2018/macOS_10.13.4_beta_Release_Notes.pdf) (17E139j) - 2018-01-24
 
