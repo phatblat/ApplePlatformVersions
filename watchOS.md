@@ -7,7 +7,8 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 4.3
 
-- [4.3 beta 4](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_3_Release_Notes/watchOS_4.3_beta_3_Release_Notes.pdf) (15T5187e) - 2018-03-05
+- [4.3 beta 5](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_5_Release_Notes/watchOS_4.3_beta_5_Release_Notes.pdf) (15T5209a) - 2018-03-12
+- [4.3 beta 4](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_4_Release_Notes/watchOS_4.3_beta_4_Release_Notes.pdf) (15T5187e) - 2018-03-05
 - [4.3 beta 3](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_3_Release_Notes/watchOS_4.3_beta_3_Release_Notes.pdf) (15T5187e) - 2018-02-21
 - [4.3 beta 2](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_2_Release_Notes/watchOS_4.3_beta_2_Release_Notes.pdf) (15T5176c) - 2018-02-07
 - [4.3 beta 1](https://download.developer.apple.com/Documentation/watchOS_4.3_beta_Release_Notes/watchOS_4.3_beta_Release_Notes.pdf) (15T5165e) - 2018-01-25
