@@ -1320,6 +1320,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## trunk
 
+- 2018-04-11
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-11-a-ubuntu14.04.tar.gz)
+
 - 2018-04-10
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-04-10-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-10-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-04-10-a/swift-DEVELOPMENT-SNAPSHOT-2018-04-10-a-ubuntu16.10.tar.gz)
