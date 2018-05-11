@@ -11,6 +11,7 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 ### 9.3
 
+- [9.3.1](https://developer.apple.com/library/content/releasenotes/DeveloperTools/RN-Xcode/Chapters/Introduction.html#//apple_ref/doc/uid/TP40001051-CH1-DontLinkElementID_1) (9E501) - 2018-05-10
 - **[9.3](https://developer.apple.com/library/content/releasenotes/DeveloperTools/RN-Xcode/Chapters/Introduction.html#//apple_ref/doc/uid/TP40001051-CH1-DontLinkElementID_1)** (9E145) - 2018-03-29
 - [9.3 beta 4](https://download.developer.apple.com/Developer_Tools/Xcode_9.3_beta_4/Release_Notes_for_Xcode_9.3_beta_4.pdf) (9Q127n) - 2018-03-05
 - [9.3 beta 3](https://download.developer.apple.com/Developer_Tools/Xcode_9.3_beta_3/Release_Notes_for_Xcode_9.3_beta_3.pdf) (9Q117m) - 2018-02-20
