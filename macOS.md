@@ -6,6 +6,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.14.0
 
+- [10.14.0 beta 4](https://download.developer.apple.com/Documentation/macOS_10.14_beta_4_Release_Notes/macOS_10.14_beta_4_Release_Notes.pdf) (18A336e) - 2018-07-16
 - [10.14.0 beta 3 'Update 1'](https://download.developer.apple.com/Documentation/Beta_Release_Notes_macOS_Mojave_10.14_beta_3/macOS_10.14_beta_3_Release_Notes.pdf) (18A326h) - 2018-07-10
 - [10.14.0 beta 3](https://download.developer.apple.com/Documentation/Beta_Release_Notes_macOS_Mojave_10.14_beta_3/macOS_10.14_beta_3_Release_Notes.pdf) (18A326g) - 2018-07-03
 - [10.14.0 beta 2](https://download.developer.apple.com/Documentation/Beta_Release_Notes_19_June_2018_v2/macOS_10.14_beta_2_Release_Notes.pdf) (18A314h) - 2018-06-19
