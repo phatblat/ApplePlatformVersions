@@ -4,6 +4,12 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 4.2 Development
 
+- 2018-08-06
+  - [Apple Platforms](https://swift.org/builds/swift-4.2-branch/xcode/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.2-branch/ubuntu1610/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2-branch/ubuntu1604/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2-branch/ubuntu1404/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu14.04.tar.gz)
+
 - 2018-08-03
   - [Apple Platforms](https://swift.org/builds/swift-4.2-branch/xcode/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/swift-4.2-branch/ubuntu1610/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a-ubuntu16.10.tar.gz)
@@ -1874,6 +1880,13 @@ Swift 4.1.1 is Linux only change, Swift 4.1 is available as part of Xcode 9.3.
   - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-05-09-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-05-09-a-ubuntu14.04.tar.gz)
 
 ## trunk
+
+- 2018-08-06
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu18.04.tar.gz)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-06-a-ubuntu14.04.tar.gz)
 
 - 2018-08-02
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-08-02-a/swift-DEVELOPMENT-SNAPSHOT-2018-08-02-a-osx.pkg)
