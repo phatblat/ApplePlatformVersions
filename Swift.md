@@ -2,6 +2,15 @@
 
 Swift development snapshots can be downloaded from [swift.org](https://swift.org/download/#latest-development-snapshots).
 
+## 4.2 Convergence Snapshots
+
+- 2018-08-08
+  - [Apple Platforms](https://swift.org/builds/swift-4.2-convergence/xcode/swift-4.2-CONVERGENCE/swift-4.2-CONVERGENCE-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-4.2-convergence/ubuntu1804/swift-4.2-CONVERGENCE/swift-4.2-CONVERGENCE-ubuntu18.04.tar.gz)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.2-convergence/ubuntu1610/swift-4.2-CONVERGENCE/swift-4.2-CONVERGENCE-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2-convergence/ubuntu1604/swift-4.2-CONVERGENCE/swift-4.2-CONVERGENCE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2-convergence/ubuntu1404/swift-4.2-CONVERGENCE/swift-4.2-CONVERGENCE-ubuntu14.04.tar.gz)
+
 ## 4.2 Development
 
 - 2018-08-07
