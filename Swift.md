@@ -464,6 +464,15 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 14.04](https://swift.org/builds/swift-4.2-branch/ubuntu1404/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-04-23-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-04-23-a-ubuntu14.04.tar.gz)
 
 
+## 4.1.3 Release
+
+Swift 4.1.3 is a Linux only change.
+
+- 2018-07-27
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.1.3-release/ubuntu1610/swift-4.1.3-RELEASE/swift-4.1.3-RELEASE-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.1.3-release/ubuntu1604/swift-4.1.3-RELEASE/swift-4.1.3-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.1.3-release/ubuntu1404/swift-4.1.3-RELEASE/swift-4.1.3-RELEASE-ubuntu14.04.tar.gz)
+
 ## 4.1.2 Release
 
 Swift 4.1.2 is available as part of [Xcode 9.4](https://download.developer.apple.com/Developer_Tools/Xcode_9.4/Xcode_9.4.xip).
