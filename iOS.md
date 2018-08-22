@@ -6,6 +6,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.0
 
+- [12.0.0 beta 9](https://download.developer.apple.com/Documentation/Beta_Release_Notes_20_August_2018/iOS_12_beta_9_Release_Notes.pdf) (16A5362a) - 2018-08-20
 - [12.0.0 beta 8](https://download.developer.apple.com/Documentation/iOS_12_Beta_8_Release_Notes/iOS_12_beta_8_Release_Notes.pdf) (16A5357b) - 2018-08-15
 - ~12.0.0 beta 7~ - [pulled due to terrible performance](https://9to5mac.com/2018/08/13/ios-12-beta-7-ota-pulled/) (16A5354b) - 2018-08-13
 - [12.0.0 beta 6](https://download.developer.apple.com/Documentation/Beta_Release_Notes_6_August_2018/iOS_12_beta_6_Release_Notes.pdf) (16A5345f) - 2018-08-06
