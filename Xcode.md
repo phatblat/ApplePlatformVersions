@@ -6,6 +6,7 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 ### 10.0
 
+- **[10](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_release_notes)** (10A255) - 20187-09-17
 - [10 GM seed](https://download.developer.apple.com/Developer_Tools/Xcode_10_GM_seed/Release_Notes_for_Xcode_10_GM_seed.pdf) (10A254a) - 20187-09-12
 - [10 beta 6](https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_6/Xcode_10_Beta_6_Release_Notes.pdf) (10L232m) - 20187-08-13
 - [10 beta 5](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_5/Release_Notes_for_Xcode_10_beta_5.pdf) (10L221o) - 20187-07-30
