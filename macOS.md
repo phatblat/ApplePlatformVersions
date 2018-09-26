@@ -4,6 +4,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.14 "Mojave"
 
+### 10.14.1
+
+- [10.14.1 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_1_beta_release_notes) (18B45d) - 2018-09-25
+
 ### 10.14.0
 
 - **10.14.0** (18A391) - 2018-09-24
