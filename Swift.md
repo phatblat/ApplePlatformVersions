@@ -2,6 +2,16 @@
 
 Swift development snapshots can be downloaded from [swift.org](https://swift.org/download/#latest-development-snapshots).
 
+## Swift 4.2 Release
+
+Swift 4.2 is available as part of [Xcode 10.0](https://download.developer.apple.com/Developer_Tools/Xcode_9.4/Xcode_9.4.xip).
+
+- 2018-09-17
+  - [Xcode Toolchain](https://swift.org/builds/swift-4.2-release/xcode/swift-4.2-RELEASE/swift-4.2-RELEASE-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-4.2-release/ubuntu1804/swift-4.2-RELEASE/swift-4.2-RELEASE-ubuntu18.04.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2-release/ubuntu1604/swift-4.2-RELEASE/swift-4.2-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2-release/ubuntu1404/swift-4.2-RELEASE/swift-4.2-RELEASE-ubuntu14.04.tar.gz)
+
 ## 4.2 Convergence Snapshots
 
 - 2018-08-08
