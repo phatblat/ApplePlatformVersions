@@ -6,18 +6,19 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 ### 10.1
 
-- [10.1 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_1_beta_release_notes) (10O23u) - 20187-09-18
+- [10.1 beta 2](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_1_beta_2_release_notes) (10O35n) - 2018-10-02
+- [10.1 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_1_beta_release_notes) (10O23u) - 2018-09-18
 
 ### 10.0
 
-- **[10](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_release_notes)** (10A255) - 20187-09-17
-- [10 GM seed](https://download.developer.apple.com/Developer_Tools/Xcode_10_GM_seed/Release_Notes_for_Xcode_10_GM_seed.pdf) (10A254a) - 20187-09-12
-- [10 beta 6](https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_6/Xcode_10_Beta_6_Release_Notes.pdf) (10L232m) - 20187-08-13
-- [10 beta 5](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_5/Release_Notes_for_Xcode_10_beta_5.pdf) (10L221o) - 20187-07-30
-- [10 beta 4](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_4/Release_Notes_for_Xcode_10_beta_4.pdf) (10L213o) - 20187-07-17
-- [10 beta 3](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_3/Release_Notes_for_Xcode_10_beta_3.pdf) (10L201y) - 20187-07-03
-- [10 beta 2](https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_2/Xcode_10_Beta_2_Release_Notes.pdf) (10L177m) - 20187-06-19
-- [10 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jun_4_2018/Xcode_10_Beta_Release_Notes.pdf) (10L176w) - 20187-06-04
+- **[10](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_release_notes)** (10A255) - 2018-09-17
+- [10 GM seed](https://download.developer.apple.com/Developer_Tools/Xcode_10_GM_seed/Release_Notes_for_Xcode_10_GM_seed.pdf) (10A254a) - 2018-09-12
+- [10 beta 6](https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_6/Xcode_10_Beta_6_Release_Notes.pdf) (10L232m) - 2018-08-13
+- [10 beta 5](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_5/Release_Notes_for_Xcode_10_beta_5.pdf) (10L221o) - 2018-07-30
+- [10 beta 4](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_4/Release_Notes_for_Xcode_10_beta_4.pdf) (10L213o) - 2018-07-17
+- [10 beta 3](https://download.developer.apple.com/Developer_Tools/Xcode_10_beta_3/Release_Notes_for_Xcode_10_beta_3.pdf) (10L201y) - 2018-07-03
+- [10 beta 2](https://download.developer.apple.com/Developer_Tools/Xcode_10_Beta_2/Xcode_10_Beta_2_Release_Notes.pdf) (10L177m) - 2018-06-19
+- [10 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jun_4_2018/Xcode_10_Beta_Release_Notes.pdf) (10L176w) - 2018-06-04
 
 ## 9
 
