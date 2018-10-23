@@ -23,6 +23,12 @@ Swift 4.2 is available as part of [Xcode 10.0](https://download.developer.apple.
 
 ## 4.2 Development
 
+- 2018-10-22
+  - [Apple Platforms](https://swift.org/builds/swift-4.2-branch/xcode/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/swift-4.2-branch/ubuntu1610/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2-branch/ubuntu1604/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2-branch/ubuntu1404/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu14.04.tar.gz)
+
 - 2018-10-21
   - [Apple Platforms](https://swift.org/builds/swift-4.2-branch/xcode/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-21-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-21-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/swift-4.2-branch/ubuntu1610/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-21-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-10-21-a-ubuntu16.10.tar.gz)
@@ -2172,6 +2178,12 @@ Swift 4.1.1 is Linux only change, Swift 4.1 is available as part of Xcode 9.3.
   - [Ubuntu 14.04](https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-05-09-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-05-09-a-ubuntu14.04.tar.gz)
 
 ## trunk
+
+- 2018-10-22
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a/swift-DEVELOPMENT-SNAPSHOT-2018-10-22-a-ubuntu14.04.tar.gz)
 
 - 2018-10-21
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-10-21-a/swift-DEVELOPMENT-SNAPSHOT-2018-10-21-a-osx.pkg)
