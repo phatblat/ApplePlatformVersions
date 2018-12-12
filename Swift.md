@@ -10,6 +10,42 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
   - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-10-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-10-a-ubuntu16.04.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-10-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-10-a-ubuntu14.04.tar.gz)
 
+- 2018-12-09
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-09-a-ubuntu14.04.tar.gz)
+
+- 2018-12-08
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-08-a-ubuntu14.04.tar.gz)
+
+- 2018-12-07
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-07-a-ubuntu14.04.tar.gz)
+
+- 2018-12-06
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-06-a-ubuntu14.04.tar.gz)
+
+- 2018-12-04
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-04-a-ubuntu14.04.tar.gz)
+
+- 2018-12-03
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-ubuntu14.04.tar.gz)
+
 ## Swift 4.2.1 Release
 
 Swift 4.2.1 is available as part of [Xcode 10.1](https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip).
