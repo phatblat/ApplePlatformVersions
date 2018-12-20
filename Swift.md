@@ -4,11 +4,11 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 
 ## 5.0 Development
 
-- 2018-12-18
-  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-18-a-ubuntu14.04.tar.gz)
+- 2018-12-17
+  - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.0-branch/ubuntu1610/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-17-a-ubuntu14.04.tar.gz)
 
 - 2018-12-16
   - [Apple Platforms](https://swift.org/builds/swift-5.0-branch/xcode/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-16-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-16-a-osx.pkg)
