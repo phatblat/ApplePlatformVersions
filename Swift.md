@@ -2335,6 +2335,12 @@ Swift 4.1.1 is Linux only change, Swift 4.1 is available as part of Xcode 9.3.
 
 ## trunk
 
+- 2018-12-26
+  - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a-osx.pkg)
+  - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/development/ubuntu1604/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/development/ubuntu1404/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-26-a-ubuntu14.04.tar.gz)
+
 - 2018-12-25
   - [Apple Platforms](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2018-12-25-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-25-a-osx.pkg)
   - [Ubuntu 16.10](https://swift.org/builds/development/ubuntu1610/swift-DEVELOPMENT-SNAPSHOT-2018-12-25-a/swift-DEVELOPMENT-SNAPSHOT-2018-12-25-a-ubuntu16.10.tar.gz)
