@@ -4,6 +4,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 12
 
+### 12.2
+
+- [12.2.0 beta 1](https://developer.apple.com/documentation/ios_release_notes/ios_12_2_beta_release_notes) (16E5181f) - 2019-01-24
+
 ### 12.1
 
 - **12.1.3** (16D39 | 16D40) - 2019-01-22
