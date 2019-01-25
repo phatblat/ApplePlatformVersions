@@ -4,6 +4,10 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 # 12
 
+## 12.2
+
+- [12.2.0 beta 1](https://developer.apple.com/documentation/tvos_release_notes/tvos_12_2_beta_release_notes) (16L5181f) - 2019-01-24
+
 ## 12.1
 
 - **12.1.2** (16K534) - 2019-01-22
