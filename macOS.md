@@ -8,7 +8,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [10.14.4 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_4_beta_release_notes) (18E174f) - 2019-01-24
 
-### 10.14.3
+### [10.14.3](https://support.apple.com/en-us/HT209149#macos10143)
 
 - **10.14.3** (18D42) - 2019-01-22
 - [10.14.3 beta 4](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_3_beta_4_release_notes) (18D39a) - 2019-01-10
@@ -16,7 +16,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [10.14.3 beta 2](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_3_beta_2_release_notes) (18D32a) - 2018-12-19
 - [10.14.3 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_3_beta_release_notes) (18D21c) - 2018-12-10
 
-### 10.14.2
+### [10.14.2](https://support.apple.com/en-us/HT209149#macos10142)
 
 - **10.14.2** (18C54) - 2018-12-05
 - [10.14.2 beta 4](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_2_beta_4_release_notes) (18C52a) - 2018-11-28
@@ -24,7 +24,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [10.14.2 beta 2](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_2_beta_2_release_notes) (18C38b) - 2018-11-07
 - [10.14.2 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_2_beta_release_notes) (18C31g) - 2018-11-01
 
-### 10.14.1
+### [10.14.1](https://support.apple.com/en-us/HT209149#macos10141)
 
 - **10.14.1** (18B75) - 2018-10-29
 - [10.14.1 beta 5](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_release_notes) (18B73a) - 2018-10-23
@@ -33,7 +33,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [10.14.1 beta 2](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_1_beta_2_release_notes) (18B?) - 2018-10-02
 - [10.14.1 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_1_beta_release_notes) (18B45d) - 2018-09-25
 
-### 10.14.0
+### [10.14.0](https://support.apple.com/en-us/HT209149#macos1014)
 
 - **10.14.0** (18A391) - 2018-09-24
 - [10.14.0 beta 11](https://download.developer.apple.com/Documentation/macOS_10.14_beta_11_Release_Notes/macOS_10.14_beta_11_Release_Notes.pdf) (18A389) - 2018-09-12
