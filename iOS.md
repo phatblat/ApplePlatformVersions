@@ -11,6 +11,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.1
 
+- [12.1.4](https://support.apple.com/en-us/HT209520)(16D57) - 2019-02-07
+   - Includes Group FaceTime hotfix
 - **12.1.3** (16D39 | 16D40) - 2019-01-22
 - [12.1.3 beta 4](https://developer.apple.com/documentation/ios_release_notes/ios_12_1_3_beta_4_release_notes) (16D5039a) - 2019-01-10
 - [12.1.3 beta 3](https://developer.apple.com/documentation/ios_release_notes/ios_12_1_3_beta_3_release_notes) (16D5037a) - 2019-01-07
