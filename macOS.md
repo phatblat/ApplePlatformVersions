@@ -11,6 +11,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### [10.14.3](https://support.apple.com/en-us/HT209149#macos10143)
 
+- 10.14.3 [Supplemental Update](https://support.apple.com/en-us/HT209521) (18D109) - 2019-02-07
+   - Includes Group FaceTime hotfix
 - **10.14.3** (18D42) - 2019-01-22
 - [10.14.3 beta 4](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_3_beta_4_release_notes) (18D39a) - 2019-01-10
 - [10.14.3 beta 3](https://developer.apple.com/documentation/macos_release_notes/macos_mojave_10_14_3_beta_3_release_notes) (18D38a) - 2019-01-07
