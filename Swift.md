@@ -410,15 +410,25 @@ Swift 5.0 is part of Xcode [10.2](https://download.developer.apple.com/Developer
   - [Ubuntu 16.04](https://swift.org/builds/swift-5.0-branch/ubuntu1604/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-ubuntu16.04.tar.gz)
   - [Ubuntu 14.04](https://swift.org/builds/swift-5.0-branch/ubuntu1404/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a/swift-5.0-DEVELOPMENT-SNAPSHOT-2018-12-03-a-ubuntu14.04.tar.gz)
 
+## Swift 4.2.4 Release
+
+Swift 4.2.4 is a Linux only change.
+
+- 2019-03-29
+  - [Xcode Toolchain](https://swift.org/builds/swift-4.2.4-release/xcode/swift-4.2.4-RELEASE/swift-4.2.4-RELEASE-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-4.2.4-release/ubuntu1804/swift-4.2.4-RELEASE/swift-4.2.4-RELEASE-ubuntu18.04.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2.4-release/ubuntu1604/swift-4.2.4-RELEASE/swift-4.2.4-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2.4-release/ubuntu1404/swift-4.2.4-RELEASE/swift-4.2.4-RELEASE-ubuntu14.04.tar.gz)
+
 ## Swift 4.2.3 Release
 
 Swift 4.2.3 is a Linux only change.
 
 - 2019-02-28
-  - [Xcode Toolchain](https://swift.org/builds/swift-4.3.3-release/xcode/swift-4.3.3-RELEASE/swift-4.3.3-RELEASE-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-4.3.3-release/ubuntu1804/swift-4.3.3-RELEASE/swift-4.3.3-RELEASE-ubuntu18.04.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-4.3.3-release/ubuntu1604/swift-4.3.3-RELEASE/swift-4.3.3-RELEASE-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-4.3.3-release/ubuntu1404/swift-4.3.3-RELEASE/swift-4.3.3-RELEASE-ubuntu14.04.tar.gz)
+  - [Xcode Toolchain](https://swift.org/builds/swift-4.2.3-release/xcode/swift-4.2.3-RELEASE/swift-4.2.3-RELEASE-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-4.2.3-release/ubuntu1804/swift-4.2.3-RELEASE/swift-4.2.3-RELEASE-ubuntu18.04.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-4.2.3-release/ubuntu1604/swift-4.2.3-RELEASE/swift-4.2.3-RELEASE-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-4.2.3-release/ubuntu1404/swift-4.2.3-RELEASE/swift-4.2.3-RELEASE-ubuntu14.04.tar.gz)
 
 ## Swift 4.2.2 Release
 
