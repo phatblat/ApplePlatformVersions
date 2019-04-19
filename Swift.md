@@ -2,6 +2,14 @@
 
 Swift development snapshots can be downloaded from [swift.org](https://swift.org/download/#latest-development-snapshots).
 
+## 5.1 Development
+
+- 2019-04-17
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-04-17-a-ubuntu14.04.tar.gz)
+
 ## Swift 5.0 Release
 
 Swift 5.0 is part of Xcode [10.2](https://download.developer.apple.com/Developer_Tools/Xcode_10.2/Xcode_10.2.xip).
