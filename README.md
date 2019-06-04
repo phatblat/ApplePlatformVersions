@@ -10,6 +10,7 @@ Recent history of platforms developed by Apple, including Apple-managed build to
 ## 👡 Platforms
 
 - [iOS][3]
+- [iPadOS][8]
 - [macOS][4]
 - [watchOS][5]
 - [tvOS][6]
@@ -25,3 +26,5 @@ This repo is licensed under the MIT License. See the [LICENSE][7] file for right
 [5]: watchOS.md
 [6]: tvOS.md
 [7]: LICENSE.md
+[8]: iPadOS.md
+
