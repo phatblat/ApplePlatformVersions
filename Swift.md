@@ -5,52 +5,52 @@ Swift development snapshots can be downloaded from [swift.org](https://swift.org
 ## 5.1 Development
 
 - 2019-06-18
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-18-a-ubuntu14.04.tar.gz)
 
 - 2019-06-17
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-17-a-ubuntu14.04.tar.gz)
 
 - 2019-06-16
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-16-a-ubuntu14.04.tar.gz)
 
 - 2019-06-15
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-15-a-ubuntu14.04.tar.gz)
 
 - 2019-06-14
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-14-a-ubuntu14.04.tar.gz)
 
 - 2019-06-12
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-12-a-ubuntu14.04.tar.gz)
 
 - 2019-06-02
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-02-a-ubuntu14.04.tar.gz)
 
 - 2019-06-01
-  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
-  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.10.tar.gz)
-  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu16.04.tar.gz)
-  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-ubuntu14.04.tar.gz)
+  - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a-osx.pkg)
+  - [Ubuntu 18.04](https://swift.org/builds/swift-5.1-branch/ubuntu1610/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a-ubuntu16.10.tar.gz)
+  - [Ubuntu 16.04](https://swift.org/builds/swift-5.1-branch/ubuntu1604/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a-ubuntu16.04.tar.gz)
+  - [Ubuntu 14.04](https://swift.org/builds/swift-5.1-branch/ubuntu1404/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-06-01-a-ubuntu14.04.tar.gz)
 
 - 2019-05-29
   - [Apple Platforms](https://swift.org/builds/swift-5.1-branch/xcode/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a/swift-5.1-DEVELOPMENT-SNAPSHOT-2019-05-29-a-osx.pkg)
