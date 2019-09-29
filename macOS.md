@@ -20,6 +20,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.14.6
 
+- 10.14.6 (18G103) - 2019-09-26
 - 10.14.6 [Supplemental Update #2](https://mrmacintosh.com/macos-mojave-10-14-6-supplemental-update-2-18g95-released/) (18G95) - 2019-08-26
 - 10.14.6 [Supplemental Update](https://www.macrumors.com/2019/08/01/macos-mojave-10-14-6-supplemental-update/) (18G87) - 2019-08-01
 - **10.14.6** (18G84) - 2019-07-22
