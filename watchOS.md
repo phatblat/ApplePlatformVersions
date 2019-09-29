@@ -26,6 +26,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 5.3
 
+- 5.3.2 (16U611) - 2019-09-26
 - 5.3.1 (16U600) - 2019-08-26
 - **5.3** (16U569) - 2019-07-22
 - [5.3 beta 4](https://developer.apple.com/documentation/watchos_release_notes/watchos_5_3_beta_4_release_notes) (16U5558b) - 2019-06-24
