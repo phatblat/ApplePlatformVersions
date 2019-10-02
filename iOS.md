@@ -4,6 +4,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 13
 
+### 13.2
+
+- [13.2 beta 1](https://developer.apple.com/documentation/ios_ipados_release_notes/ios_ipados_13_2_beta_release_notes/) (17B5059g) - 2019-10-02
+
 ### 13.1
 
 - 13.1.2 (17A860 | 17A861) - 2019-09-30
