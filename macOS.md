@@ -4,6 +4,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.15 "Catalina"
 
+### 10.15.1
+
+- [10.15.1 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_1_beta_release_notes/) (19B68f) - 2019-10-11
+
 ### 10.15.0
 
 - **10.15** (19A583) - 2019-10-07
