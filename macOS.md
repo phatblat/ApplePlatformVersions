@@ -10,6 +10,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.15.0
 
+- 10.15 [Supplemental Update](https://mrmacintosh.com/macos-catalina-10-15-supplemental-update-released/) (19A602) - 2019-10-15
 - **10.15** (19A583) - 2019-10-07
 - [10.15.0 GM seed](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_release_notes) (19A582a) - 2019-10-03
 - [10.15.0 beta 10](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_beta_10_release_notes) (19A578c) - 2019-09-30
