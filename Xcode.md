@@ -287,6 +287,6 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 - 4.6.3 - 3084
 
-[1]:	https://developer.apple.com/xcode/download/
-[2]:	https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12
-[3]:	https://developer.apple.com/downloads/
+[1]: https://developer.apple.com/xcode/download/
+[2]: https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12
+[3]: https://developer.apple.com/downloads/
