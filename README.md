@@ -27,4 +27,3 @@ This repo is licensed under the MIT License. See the [LICENSE][7] file for right
 [6]: tvOS.md
 [7]: LICENSE.md
 [8]: iPadOS.md
-
