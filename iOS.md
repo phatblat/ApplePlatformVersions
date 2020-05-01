@@ -227,8 +227,13 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10
 
+[About iOS 10 Updates](https://support.apple.com/en-us/HT208011)
+
 ### 10.3
 
+- [10.3.4](https://support.apple.com/kb/HT201222) (14G61) - 2019-07-22
+  - [Apple Releases iOS 9.3.6 and iOS 10.3.4 With GPS Bug Fix for Older iPhones and iPads](https://www.macrumors.com/2019/07/22/apple-releases-gps-bug-fix-older-iphones-ipads/)
+  - [Update your iPhone or iPad software if you're experiencing issues with location, date, and time](https://support.apple.com/en-us/HT210239)
 - **10.3.3** (14G60) - 2017-07-19
 - [10.3.3 beta 6](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jul_5_2017/iOS_10.3.3_beta_6_Release_Notes.pdf) (14G57 | 14G58) - 2017-07-05
 - [10.3.3 beta 5](http://adcdownload.apple.com/Documentation/Beta_Release_Notes_Jun_28_2017/iOS_10.3.3_beta_5_Release_Notes.pdf) (14G5057a) - 2017-06-28
@@ -297,8 +302,13 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 9
 
+[About iOS 9 Updates](https://support.apple.com/en-us/HT208010)
+
 ### 9.3
 
+- [9.3.6](https://support.apple.com/en-us/HT210239) (13G37) - 2019-07-22
+  - [Apple Releases iOS 9.3.6 and iOS 10.3.4 With GPS Bug Fix for Older iPhones and iPads](https://www.macrumors.com/2019/07/22/apple-releases-gps-bug-fix-older-iphones-ipads/)
+  - [Update your iPhone or iPad software if you're experiencing issues with location, date, and time](https://support.apple.com/en-us/HT210239)
 - **9.3.5** (13G36) - 2016-08-26
 - **9.3.4** (13G35) - 2016-08-04
 - **9.3.3** (13G34) - 2016-07-19
