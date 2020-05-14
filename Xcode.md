@@ -6,7 +6,8 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 
 ### 11.5
 
-- [11.5 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_beta_release_notes/) (11N111s) - 2020-04-29
+- [11.5 beta 2](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_beta_2_release_notes/) (11N605f) - 2020-05-06
+- [11.5 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_beta_release_notes/) (11N605c) - 2020-04-29
 
 ### 11.4
 
