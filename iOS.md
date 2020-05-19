@@ -6,6 +6,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 13.5
 
+- [13.5 GM seed](https://developer.apple.com/documentation/ios_ipados_release_notes/ios_ipados_13_5_beta_5_release_notes) (17F75) - 2020-05-18
 - [13.5 beta 4](https://developer.apple.com/documentation/ios_ipados_release_notes/ios_ipados_13_5_beta_4_release_notes) (17F5065a) - 2020-05-06
 - [13.5 beta 3](https://developer.apple.com/documentation/ios_ipados_release_notes/ios_ipados_13_5_beta_3_release_notes) (17F5054h) - 2020-04-29
   - [Apple Seeds Third Beta of iOS 13.5, Relabeled From iOS 13.4.5 Due to Exposure Notification API](https://www.macrumors.com/2020/04/29/apple-seeds-third-ios-13-5-beta-to-developers/)
