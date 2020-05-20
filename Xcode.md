@@ -1,11 +1,15 @@
 # Xcode
 
-Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions can be downloaded from the [Mac App Store][2], or in .dmg format from the [Additional Tools][3] area of the site.
+[Xcode Release Notes](https://developer.apple.com/documentation/xcode_release_notes) listing.
+
+Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions can be downloaded from the [Mac App Store][2],
+or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 11
 
 ### 11.5
 
+- **[11.5](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_release_notes)** (11E608c) - 2020-05-20
 - [11.5 GM seed](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_gm_seed_release_notes/) (11N608c) - 2020-05-18
 - [11.5 beta 2](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_beta_2_release_notes/) (11N605f) - 2020-05-06
 - [11.5 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_beta_release_notes/) (11N605c) - 2020-04-29
