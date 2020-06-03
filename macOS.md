@@ -1,12 +1,14 @@
 # macOS
 
-[macOS Release Notes](https://developer.apple.com/documentation/macos_release_notes).
+[macOS Release Notes](https://developer.apple.com/documentation/macos_release_notes) and
+[What's new in the updates for macOS Catalina](https://support.apple.com/en-us/HT210642) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 10.15 "Catalina"
 
 ### 10.15.5
 
+- **[10.15.5 Supplemental Update](https://support.apple.com/en-us/HT211215)** (19F101) - 2020-06-01
 - **[10.15.5](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_5_release_notes)** (19F96) - 2020-05-26
 - [10.15.5 beta 5](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_5_beta_5_release_notes/) (19F94a) - 2020-05-20
 - [10.15.5 beta 4](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_5_beta_4_release_notes/) (19F83c) - 2020-05-07
