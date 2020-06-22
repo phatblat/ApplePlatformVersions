@@ -4,6 +4,10 @@
 [What's new in the updates for macOS Catalina](https://support.apple.com/en-us/HT210642) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
+## 11 "Big Sur"
+
+- 11 beta 1 (20A4299v) - 2020-06-22
+
 ## 10.15 "Catalina"
 
 ### 10.15.6
