@@ -1,12 +1,13 @@
 # tvOS
 
+[tvOS Release Notes](https://developer.apple.com/documentation/tvos-release-notes) listing.
 tvOS releases can be downloaded from [developer.apple.com][1].
 
 ## 14
 
 ### 14.0
 
-- 14.0 beta 1 (18J5313t) - 2020-06-22
+- [14.0 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5313t) - 2020-06-22
 
 ## 13
 

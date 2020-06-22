@@ -1,12 +1,13 @@
 # watchOS
 
+[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) listing.
 watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
 
 ## 7
 
 ### 7.0
 
-- 7.0 beta 1 (18R5310a) - 2020-06-22
+- [7.0 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-7-beta-release-notes) (18R5310a) - 2020-06-22
 
 ## 6
 
