@@ -3,6 +3,12 @@
 [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios_ipados_release_notes) listing.
 iOS releases can be downloaded from [developer.apple.com][1].
 
+## 14
+
+### 14.0
+
+- 14.0 beta 1 (18A5301v) - 2020-06-22
+
 ## 13
 
 ### 13.6
