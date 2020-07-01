@@ -12,8 +12,9 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.15.6
 
-- [10.15.6 beta 2](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_6_beta_2_release_notes/) (19G46c) - 2020-06-09
-- [10.15.6 beta 1](https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_6_beta_release_notes/) (19G36e) - 2020-06-03
+- [10.15.6 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-catalina-10_15_6-beta-3-release-notes/) (19G60d) - 2020-06-30
+- [10.15.6 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-catalina-10_15_6-beta-2-release-notes/) (19G46c) - 2020-06-09
+- [10.15.6 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-catalina-10_15_6-beta-release-notes/) (19G36e) - 2020-06-03
 
 ### 10.15.5
 
