@@ -18,6 +18,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 11.6
 
+- **[11.6](https://developer.apple.com/documentation/xcode-release-notes/xcode-11_6-release-notes)** (11E708) - 2020-06-15
 - [11.6 beta 1](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_6_beta_release_notes/) (11N700h) - 2020-06-09
 
 ### 11.5
