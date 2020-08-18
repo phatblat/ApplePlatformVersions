@@ -9,6 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 12.0
 
+- [12.0 beta 5](https://developer.apple.com/documentation/xcode-release-notes/xcode-12-beta-release-notes) (12A8189h) - 2020-08-18
 - [12.0 beta 4](https://developer.apple.com/documentation/xcode-release-notes/xcode-12-beta-release-notes) (12A8179i) - 2020-08-04
 - [12.0 beta 3](https://developer.apple.com/documentation/xcode-release-notes/xcode-12-beta-release-notes) (12A8169g) - 2020-07-22
 - [12.0 beta 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-12-beta-release-notes) (12A6163b) - 2020-07-07
