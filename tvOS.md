@@ -7,7 +7,8 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.0
 
-- [14.0 beta 4](https://developer.apple.com/documentation/tvos-relesase-notes/tvos-14-beta-release-notes) (18J5354d) - 2020-08-04
+- [14.0 beta 5](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5364d) - 2020-08-18
+- [14.0 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5354d) - 2020-08-04
 - [14.0 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5344d) - 2020-07-22
 - [14.0 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5331g) - 2020-07-07
 - [14.0 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5313t) - 2020-06-22
