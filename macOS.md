@@ -7,6 +7,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 ## 11 "Big Sur"
 
 - [11 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5354i) - 2020-08-19
+- [11 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5354i) - 2020-08-04
 - [11 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5323l) - 2020-07-22
 - [11 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A4300b) - 2020-07-07
 - [11 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A4299v) - 2020-06-22
