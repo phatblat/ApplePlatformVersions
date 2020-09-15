@@ -7,6 +7,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.0
 
+- [14.0 GM seed](https://developer.apple.com/documentation/watchos-release-notes/watchos-7-release-notes/) (18J386) - 2020-09-15
 - [14.0 beta 8](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5385a) - 2020-09-09
 - [14.0 beta 7](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5379a) - 2020-09-03
 - [14.0 beta 6](https://developer.apple.com/documentation/tvos-release-notes/tvos-14-beta-release-notes) (18J5370e) - 2020-08-25
