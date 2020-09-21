@@ -5,6 +5,10 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ## 14
 
+### 14.2
+
+- [14.2 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_2-beta-release-notes) (18B5052h) - 2020-09-17
+
 ### 14.0
 
 - [14.0 GM seed](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14-release-notes) (18A373) - 2020-09-15
