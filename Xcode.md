@@ -15,7 +15,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 12.1
 
-_No Xcode 12.1_
+- [12.1 GM seed](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_1-release-notes) (12A7403) - 2020-10-13
 
 ### 12.0
 
