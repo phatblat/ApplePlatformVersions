@@ -14,6 +14,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.1
 
+- 14.1 (18A8395) - 2020-10-20
 - 14.1 GM seed (18A8395) - 2020-10-13
 
 ### 14.0
