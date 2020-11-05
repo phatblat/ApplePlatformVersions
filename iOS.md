@@ -117,6 +117,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.4
 
+- 12.4.9 (16H5) - 2020-11-05
 - 12.4.8 (16G201) - 2020-07-15
 - 12.4.7 (16G192) - 2020-05-20
 - 12.4.6?
