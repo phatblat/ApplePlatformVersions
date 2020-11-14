@@ -7,7 +7,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 ## 11 "Big Sur"
 
 - **[11.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes)** (20B29) - 2020-11-12
-- [11.0.1 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B278) - 2020-11-10
+- [11.0.1 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B28) - 2020-11-10
 - [11.0.1 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B5022a) - 2020-11-05
 - [11.0.1 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-beta-release-notes) (20B5012d) - 2020-10-28
 - [11 beta 10](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5395g) - 2020-10-14
@@ -16,7 +16,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [11 beta 7](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5374g) - 2020-09-17
 - [11 beta 6](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5364e) - 2020-09-03
 - [11 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5354i) - 2020-08-19
-- [11 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5354i) - 2020-08-04
+- [11 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5343i) - 2020-08-04
 - [11 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5323l) - 2020-07-22
 - [11 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A4300b) - 2020-07-07
 - [11 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A4299v) - 2020-06-22
