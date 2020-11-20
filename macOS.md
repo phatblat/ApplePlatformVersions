@@ -12,6 +12,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 11.0
 
+- [11.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B50) - 2020-11-19
+  - [About the security content of macOS Big Sur 11.0.1](https://support.apple.com/en-us/HT211982)
+  - [Big Sur 11.0.1 (20B50) Released to Block Install for 2013-14 13" MBPs](https://mrmacintosh.com/big-sur-11-0-1-20b50-released-to-block-install-for-2013-14-13-mbpros/)
+  - [Apple releases new build of macOS Big Sur 11.0.1 for select users](https://9to5mac.com/2020/11/19/apple-releases-new-build-macos-big-sur-11-0-1/)
 - **[11.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes)** (20B29) - 2020-11-12
 - [11.0.1 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B28) - 2020-11-10
 - [11.0.1 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B5022a) - 2020-11-05
