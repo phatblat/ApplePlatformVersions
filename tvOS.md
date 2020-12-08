@@ -7,6 +7,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.3
 
+- [14.3 rc](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_3-beta-release-notes) (18K561) - 2020-12-08
 - [14.3 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_3-beta-release-notes) (18K5559a) - 2020-12-02
 - [14.3 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_3-beta-release-notes) (18K5556a) - 2020-11-18
 - [14.3 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_3-beta-release-notes) (18K5545e) - 2020-11-12
@@ -14,7 +15,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 ### 14.2
 
 - **[14.2](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-release-notes)** (18K57) - 2020-11-05
-- [14.2 RC](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-beta-release-notes) (18K57) - 2020-11-02
+- [14.2 rc](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-beta-release-notes) (18K57) - 2020-11-02
 - [14.2 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-beta-release-notes) (18K5057a) - 2020-10-20
 - [14.2 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-beta-release-notes) (18K5047f) - 2020-10-13
 - [14.2 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-14_2-beta-release-notes) (18K5036d) - 2020-09-29
