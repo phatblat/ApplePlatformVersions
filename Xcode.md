@@ -7,6 +7,10 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 12
 
+### 12.3
+
+- [12.3 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_3-release-notes) (12C33) - 2020-12-08
+
 ### 12.2
 
 - **[12.2](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_2-release-notes)** (12B45b) - 2020-11-12
