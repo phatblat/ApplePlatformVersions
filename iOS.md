@@ -128,6 +128,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.5
 
+- 12.5.1 (16H22) - 2021-01-11
 - **[12.5](https://support.apple.com/en-us/HT209084#125)** (16H20) - 2020-12-14
   - Added COVID-19 Exposure Notifications
 
