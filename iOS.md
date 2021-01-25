@@ -5,6 +5,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 14
 
+### 14.4
+
+- [14.4 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes) (18D52) - 2021-01-21
+
 ### 14.3
 
 - **[14.3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_3-release-notes)** (18C66) - 2020-12-14
