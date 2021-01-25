@@ -27,6 +27,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [11.0.1 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B28) - 2020-11-10
 - [11.0.1 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-release-notes) (20B5022a) - 2020-11-05
 - [11.0.1 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_0_1-beta-release-notes) (20B5012d) - 2020-10-28
+- [11.0](https://download.developer.apple.com/Developer_Tools/Kernel_Debug_Kit_11.0_build_20A2411/Kernel_Debug_Kit_11.0_build_20A2411.dmg) (20A2411) - 2020-11-17
 - [11 beta 10](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5395g) - 2020-10-14
 - [11 beta 9](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5384c) - 2020-09-29
 - [11 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11-beta-release-notes/) (20A5374i) - 2020-09-22
@@ -403,9 +404,9 @@ macOS releases can be downloaded from [developer.apple.com][1].
 ### 10.11.1
 
 - 10.11.1 beta 4 (15B38b) - 2015-10-14
-- 10.11.1 beta 3 (15B30a)  - 2015-10-07
+- 10.11.1 beta 3 (15B30a) - 2015-10-07
 - 10.11.1 beta 2 (15B22c) - 2015-09-29
-- 10.11.1 beta 1 (15B17c) - 2015-09-17
+- 10.11.1 beta 1 (15B17c) - 2015-09-17
 
 ### 10.11.0
 
@@ -417,8 +418,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.11 beta 5 (15A235d) - 2015-07-27
 - 10.11 beta 4 (15A226f) - 2015-07-21
 - 10.11 beta 3 (15A216g) - 2015-07-08
-- 10.11 beta 2 (15A204h) - 2015-06-23
-- 10.11 beta 1 (15A178w) - 2015-06-08
+- 10.11 beta 2 (15A204h) - 2015-06-23
+- 10.11 beta 1 (15A178w) - 2015-06-08
 
 -----
 
@@ -437,7 +438,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.10.3 seed 6 (14D127a) - 2015–03-30
 - 10.10.3 seed 5 (14D113c) - 2015-03-23
 - 10.10.3 seed 4 (14D105g) - 2015-03-16
-- 10.10.3 seed 3 (14D98g) - 2015-03-12
+- 10.10.3 seed 3 (14D98g) - 2015-03-12
 - 10.10.3 seed 2 (14D87h) - 2015-02-23
 - 10.10.3 seed 1 (14D72i) - 2015-02-05
 
@@ -479,8 +480,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.9.4 (13E28)
 - 10.9.3 (13D65) systemVersion=“13D65"
 - systemVersion="13C1021"
-- 10.9.2  - 13C64 - 2014-02-24
-- 10.9.1 - 13B3116 (iMac) or 13B42 (rMBP) - 2013-12-20?
+- 10.9.2  - 13C64 - 2014-02-24
+- 10.9.1 - 13B3116 (iMac) or 13B42 (rMBP) - 2013-12-20?
 - 10.9 - 13A603 - 2013-10-22
 - 10.9 (GM) - 13A598 - 2013-10-03
 - 10.9 (DP8) - 13A584 - 2013-09-16
