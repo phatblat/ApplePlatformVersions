@@ -13,6 +13,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 12.3
 
+- **[12.3](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_3-release-notes)** (12C33) - 2020-12-14
 - [12.3 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_3-release-notes) (12C33) - 2020-12-08
 
 ### 12.2
