@@ -9,7 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 12.4
 
-- **[12.4](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_4-rc-release-notes)** (12D4e) - 2021-01-26
+- **[12.4](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_4-release-notes)** (12D4e) - 2021-01-26
 - [12.4 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-12_4-rc-release-notes) (12D4e) - 2021-01-21
 
 ### 12.3
