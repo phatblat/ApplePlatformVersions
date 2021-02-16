@@ -1,6 +1,8 @@
 # watchOS
 
-[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) listing.
+If the links below don't work, details can be found on the 
+[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) and
+[About watchOS 7 Updates](https://support.apple.com/en-us/HT211815) pages.
 watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
 
 ## 7
@@ -11,6 +13,8 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 7.3
 
+- [7.3.1](https://support.apple.com/en-us/HT211815#731) (18S811) - 2021-02-15
+- **[7.3](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_3-release-notes)** (18S801) - 2021-01-26
 - [7.3 rc](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_3-release-notes) (18S801) - 2021-01-21
 - [7.3 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_3-beta-release-notes) (18S5780d) - 2020-12-16
 
