@@ -1,6 +1,6 @@
 # watchOS
 
-If the links below don't work, details can be found on the 
+If the links below don't work, details can be found on the
 [watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) and
 [About watchOS 7 Updates](https://support.apple.com/en-us/HT211815) pages.
 watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
@@ -9,6 +9,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 7.4
 
+- [7.4 beta 4](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_4-beta-release-notes) (18T5183b) - 2021-03-15
 - [7.4 beta 3](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_4-beta-release-notes) (18T5169f) - 2021-03-04
 - [7.4 beta 2](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_4-beta-release-notes) (18T5159f) - 2021-02-16
 - [7.4 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_4-beta-release-notes) (18T5144k) - 2021-02-01
