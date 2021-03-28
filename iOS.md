@@ -1,6 +1,7 @@
 # iOS
 
 [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes) listing.
+[About iOS 14 Updates](https://support.apple.com/en-us/HT211808) contains more details and links to support articles.
 iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 14
@@ -15,7 +16,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.4
 
-- [14.4.1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes) (18D61) - 2021-03-08
+- [14.4.2](https://support.apple.com/en-us/HT212256) (18D70) - 2021-03-26
+- [14.4.1](https://support.apple.com/en-us/HT212221) (18D61) - 2021-03-08
 - **[14.4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes)** (18D52) - 2021-01-26
 - [14.4 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_4-release-notes) (18D52) - 2021-01-21
 
