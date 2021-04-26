@@ -12,6 +12,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 11.3
 
+- **[11.3](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-release-notes/)** (20E232) - 2021-04-26
 - [11.3 rc](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-release-notes/) (20E232) - 2021-04-20
 - [11.3 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-beta-release-notes/) (20E5231a) - 2021-04-13
 - [11.3 beta 7](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-beta-release-notes/) (20E5229a) - 2021-04-08
