@@ -1,7 +1,7 @@
 # macOS
 
 [macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes) and
-[What's new in the updates for macOS Catalina](https://support.apple.com/en-us/HT210642) contain details on these releases.
+[What's new in the updates for macOS Big Sur](https://support.apple.com/en-us/HT211896) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 11 "Big Sur"
@@ -12,6 +12,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 11.3
 
+- [11.3.1](https://support.apple.com/en-us/HT211896#macos1131) (20E241) - 2021-05-03
 - **[11.3](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-release-notes/)** (20E232) - 2021-04-26
 - [11.3 rc](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-release-notes/) (20E232) - 2021-04-20
 - [11.3 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-big-sur-11_3-beta-release-notes/) (20E5231a) - 2021-04-13
