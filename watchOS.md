@@ -5,6 +5,12 @@ If the links below don't work, details can be found on the
 [About watchOS 7 Updates](https://support.apple.com/en-us/HT211815) pages.
 watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
 
+## 8
+
+### 8.0
+
+- [8.0 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-8-beta-release-notes) (19R5266q) - 2021-06-07
+
 ## 7
 
 ### 7.6
