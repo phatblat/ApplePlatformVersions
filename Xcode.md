@@ -5,6 +5,12 @@
 Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions can be downloaded from the [Mac App Store][2],
 or in .dmg format from the [Additional Tools][3] area of the site.
 
+## 13
+
+### 13.0
+
+- [13.0 beta 1](https://developer.apple.com/documentation/xcode-release-notes/xcode-13-beta-release-notes) (13A5154h) - 2021-06-07
+
 ## 12
 
 ### 12.5
