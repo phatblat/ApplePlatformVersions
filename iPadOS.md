@@ -4,6 +4,12 @@
 [About iOS 14 Updates](https://support.apple.com/en-us/HT211808) contains more details and links to support articles.
 iPadOS releases can be downloaded from [developer.apple.com][1].
 
+## 15
+
+### 15.0
+
+- [15.0 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes) (19A5261w) - 2021-06-07
+
 ## 14
 
 ### 14.7
