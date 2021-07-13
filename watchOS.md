@@ -16,6 +16,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 7.6
 
+- [7.6 beta 5](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_6-beta-release-notes) (18U5561a) - 2021-07-08
 - [7.6 beta 4](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_6-beta-release-notes) (18U5552d) - 2021-06-29
 - [7.6 beta 3](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_6-beta-release-notes) (18U5542b) - 2021-06-14
 - [7.6 beta 2](https://developer.apple.com/documentation/watchos-release-notes/watchos-7_6-beta-release-notes) (18U5533b) - 2021-06-02
