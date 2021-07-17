@@ -8,6 +8,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.0
 
+- [15.0 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes) (19A5297e) - 2021-07-14
 - [15.0 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes) (19A5281j) - 2021-06-24
   - adds support for [iPad Pro (9.7 inch)](https://9to5mac.com/2021/06/24/psa-ipados-15-beta-2-not-available-for-wi-fi-cellular-9-7-inch-ipad-pro/)
 - [15.0 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes) (19A5281h) - 2021-06-24
