@@ -18,6 +18,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.7
 
+- [14.7.1](https://support.apple.com/en-us/HT211808#1471) (18G82) - 2021-07-26
 - **[14.7](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_7-release-notes)** (18G69) - 2021-07-19
 - [14.7 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_7-release-notes) (18G68) - 2021-07-13
 - [14.7 beta 5](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-14_7-beta-release-notes) (18G5063a) - 2021-07-08
