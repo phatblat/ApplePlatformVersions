@@ -21,6 +21,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 14
 
+### 14.8
+
+- [14.8](https://support.apple.com/en-us/HT201222) (18H17) - 2021-09-13
+
 ### 14.7
 
 - [14.7.1](https://support.apple.com/en-us/HT211808#1471) (18G82) - 2021-07-26
