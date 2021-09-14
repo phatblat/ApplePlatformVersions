@@ -17,6 +17,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 11 "Big Sur"
 
+### 11.6
+
+- [11.6](https://support.apple.com/en-us/HT211896) (20G95) - 2021-09-13
+
 ### 11.5
 
 - [11.5.2](https://support.apple.com/en-us/HT211896) (20G95) - 2021-08-11
