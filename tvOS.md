@@ -6,6 +6,10 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ## 15
 
+### 15.1
+
+- [15.1 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-beta-release-notes) (19J5542e) - 2021-09-21
+
 ### 15.0
 
 - **[15.0](https://developer.apple.com/documentation/tvos-release-notes/tvos-15-release-notes)** (19J346) - 2021-09-20
