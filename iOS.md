@@ -195,6 +195,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.5
 
+- [12.5.5](https://support.apple.com/en-us/HT212824) (16H62) - 2021-09-23
 - [12.5.4](https://support.apple.com/en-us/HT212548) (16H50) - 2021-06-14
 - [12.5.3](https://support.apple.com/en-us/HT212341) (16H41) - 2021-05-03
 - [12.5.2](https://support.apple.com/en-us/HT212257) (16H30) - 2021-03-26
