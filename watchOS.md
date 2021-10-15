@@ -16,7 +16,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 8.0
 
-- 8.0.1 (19R354) - 2021-10-11
+- [8.0.1](https://support.apple.com/en-us/HT212790#801) (19R354) - 2021-10-11
 - **[8.0](https://developer.apple.com/documentation/watchos-release-notes/watchos-8-release-notes)** (19R346) - 2021-09-20
 - [8.0 rc](https://developer.apple.com/documentation/watchos-release-notes/watchos-8-release-notes) (19R346) - 2021-09-14
 - [8.0 beta 8](https://developer.apple.com/documentation/watchos-release-notes/watchos-8-beta-release-notes) (19R5342a) - 2021-08-31
