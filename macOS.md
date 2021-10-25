@@ -8,6 +8,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.0
 
+- **[12.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-12_0_1-release-notes/) (21A559)** - 2021-10-21
+  - Yes, the marketing version of the final GA build of Monterey included a patch number.
 - [12.0.1 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-12-release-notes/) (21A559) - 2021-10-21
 - [12.0.1 rc](https://developer.apple.com/documentation/macos-release-notes/macos-12-release-notes/) (21A558) - 2021-10-18
 - [12.0 beta 10](https://developer.apple.com/documentation/macos-release-notes/macos-12-release-notes/) (21A5552a) - 2021-10-13
