@@ -6,6 +6,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 12 "Monterey"
 
+### 12.1
+
+- [12.1 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-12.1-beta-release-notes/) (21C5021h) - 2021-10-28
+
 ### 12.0
 
 - **[12.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-12_0_1-release-notes/) (21A559)** - 2021-10-21
