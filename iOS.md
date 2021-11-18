@@ -15,7 +15,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.1
 
-- [15.1.1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes) (19B81) - 2021-11-17
+- [15.1.1](https://support.apple.com/en-us/HT212788#1511) (19B81) - 2021-11-17
 - **[15.1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes) (19B54)** - 2021-10-21
 - [15.1 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes) (19B74) - 2021-10-18
 - [15.1 beta 4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes) (19B5068a) - 2021-10-13
