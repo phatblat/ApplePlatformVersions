@@ -1,11 +1,12 @@
 # watchOS
 
 If the links below don't work, details can be found on the
-[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) and
-[About watchOS 8 Updates](https://support.apple.com/en-us/HT212790) pages.
+[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) page.
 watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
 
 ## 8
+
+[About watchOS 8 Updates](https://support.apple.com/en-us/HT212790)
 
 ### 8.3
 
@@ -15,6 +16,7 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 8.1
 
+- [8.1.1](https://support.apple.com/en-us/HT212790#811) (19R580) - 2021-11-18
 - **[8.1](https://developer.apple.com/documentation/watchos-release-notes/watchos-8_1-release-notes) (19R570)** - 2021-10-25
 - [8.1 rc](https://developer.apple.com/documentation/watchos-release-notes/watchos-8_1-release-notes) (19R570) - 2021-10-18
 - [8.1 beta 4](https://developer.apple.com/documentation/watchos-release-notes/watchos-8_1-release-notes) (19R5566a) - 2021-10-13
