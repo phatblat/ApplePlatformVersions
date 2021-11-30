@@ -1,14 +1,21 @@
 # tvOS
 
 [tvOS Release Notes](https://developer.apple.com/documentation/tvos-release-notes) listing.
+[About Apple TV 4K and Apple TV HD software updates](https://support.apple.com/en-us/HT207936).
 tvOS releases can be downloaded from [developer.apple.com][1].
-
 
 ## 15
 
+### 15.2
+
+- [15.2 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_2-release-notes) (19K5043b) - 2021-11-16
+- [15.2 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_2-release-notes) (19K5035d) - 2021-11-09
+- [15.2 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_2-release-notes) (19K5025g) - 2021-10-27
+
 ### 15.1
 
-- **[15.1](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-release-notes)** (19J572) - 2021-10-25
+- [15.1.1](https://support.apple.com/en-us/HT207936) (19J581) - 2021-11-01
+- **[15.1](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-release-notes) (19J572)** - 2021-10-25
 - [15.1 rc](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-release-notes) (19J572) - 2021-10-18
 - [15.1 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-release-notes) (19J5567a) - 2021-10-13
 - [15.1 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_1-release-notes) (19J5560d) - 2021-10-06
