@@ -9,6 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 13.2
 
+- [13.2 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-13_2-release-notes) (13C90) - 2021-12-07
 - [13.2 beta 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-13_2-release-notes) (13C5081f) - 2021-11-16
 - [13.2 beta 1](https://developer.apple.com/documentation/xcode-release-notes/xcode-13_2-release-notes) (13C5066c) - 2021-10-27
 
