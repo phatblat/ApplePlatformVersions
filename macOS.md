@@ -8,6 +8,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.1
 
+- [12.1 rc](https://developer.apple.com/documentation/macos-release-notes/macos-12_1-release-notes/) (21C51) - 2021-12-07
 - [12.1 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-12_1-release-notes/) (21C5045a) - 2021-12-01
 - [12.1 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-12_1-release-notes/) (21C5039b) - 2021-11-16
 - [12.1 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-12_1-release-notes/) (21C5031d) - 2021-11-09
