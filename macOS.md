@@ -8,6 +8,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.2
 
+- [12.2 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-12_2-release-notes/) (21D5039d) - 2022-01-11
 - [12.2 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-12_2-release-notes/) (21D5025f) - 2021-12-16
 
 ### 12.1
@@ -351,7 +352,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.13.0 beta 2 (17A291j) - 2017-06-21
 - 10.13.0 beta 1 (17A264c) - 2017-06-05
 
------
+---
 
 ## 10.12 "Sierra"
 
@@ -425,7 +426,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.12.0 beta 2 (16A239j) - 2016-07-05
 - 10.12.0 beta 1 (16A201w) - 2016-06-13
 
------
+---
 
 ## 10.11 "El Capitan"
 
@@ -496,7 +497,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.11 beta 2 (15A204h) - 2015-06-23
 - 10.11 beta 1 (15A178w) - 2015-06-08
 
------
+---
 
 ## 10.10 "Yosemite"
 
@@ -547,7 +548,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.10 (14A261i) DP2 - 2014-06-17
 - 10.10 (14A238x) DP1 - 2014-06-02
 
------
+---
 
 ## 10.9 "Mavericks"
 
@@ -555,7 +556,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.9.4 (13E28)
 - 10.9.3 (13D65) systemVersion=“13D65"
 - systemVersion="13C1021"
-- 10.9.2  - 13C64 - 2014-02-24
+- 10.9.2 - 13C64 - 2014-02-24
 - 10.9.1 - 13B3116 (iMac) or 13B42 (rMBP) - 2013-12-20?
 - 10.9 - 13A603 - 2013-10-22
 - 10.9 (GM) - 13A598 - 2013-10-03
@@ -568,7 +569,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - 10.9 (DP2) - 13A497d - 2013-06-24
 - 10.9 (DP1) - 13A476u - 2013-06-10
 
------
+---
 
 ## 10.8 "Mountain Lion"
 
