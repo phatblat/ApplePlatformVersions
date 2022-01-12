@@ -8,6 +8,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.3
 
+- [15.3 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_3-release-notes) (19K5541d) - 2022-01-12
 - [15.3 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_3-release-notes) (19K5527e) - 2021-12-17
 
 ### 15.2
@@ -168,7 +169,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 - [13 beta 2](https://developer.apple.com/documentation/tvos_release_notes/tvos_13_beta_2_release_notes) (17J5501l) - 2019-06-17
 - [13 beta 1](https://developer.apple.com/documentation/tvos_release_notes/tvos_13_beta_release_notes) (17J5485s) - 2019-06-03
 
------
+---
 
 ## 12
 
@@ -233,7 +234,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 - [12.0.0 beta 2](https://download.developer.apple.com/Documentation/Beta_Release_Notes_19_June_2018_v2/tvOS_12_beta_2_Release_Notes.pdf) (16J5303e) - 2018-06-19
 - [12.0.0 beta 1](https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jun_4_2018/tvOS_12_beta_Release_Notes.pdf) (16J5283n) - 2018-06-04
 
------
+---
 
 ## 11
 
@@ -303,7 +304,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 - 11.0 beta 2 (15J5284g) - 2017-06-07
 - 11.0 beta 1 (15J5284e) - 2017-06-05
 
------
+---
 
 ## 10
 
@@ -357,7 +358,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 - 10 beta 2 (14T5284d) - 2016-07-05
 - 10 beta 1 (14T5253s) - 2016-06-13
 
------
+---
 
 ## 9
 
