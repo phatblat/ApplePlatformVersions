@@ -9,6 +9,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.3
 
+- [15.3 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_3-release-notes) (19D5040e) - 2022-01-12
 - [15.3 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_3-release-notes) (19D5026g) - 2021-12-17
 
 ### 15.2
@@ -388,7 +389,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 11.0 beta 2 (15A5304i) - 2017-06-21
 - 11.0 beta 1 (15A5278f) - 2017-06-05
 
------
+---
 
 ## 10
 
@@ -450,7 +451,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 10.0
 
-- 10.0.3 (14A551 [iPhone 7/Plus only](4)) -  2016-10-17
+- 10.0.3 (14A551 [iPhone 7/Plus only](4)) - 2016-10-17
 - 10.0.2 (14A456) - 2016-09-23
 - **10.0.1** (14A403) - 2016-09-12
 - 10.0.1 GM seed (14A403) - 2016-09-07
@@ -463,7 +464,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 10 beta 2 (14A5297c) - 2016-07-05
 - 10 beta 1 (14A5261v) - 2016-06-13
 
------
+---
 
 ## 9
 
@@ -532,7 +533,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 9 beta 2 (13A4280e) - 2015-06-23
 - 9 beta 1 (13A4254v) - 2015-06-08
 
------
+---
 
 ## 8
 
@@ -580,7 +581,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 8.0 beta 2 (12A4297e) - 2014-06-17
 - 8.0 beta 1 (12A4265u) - 2014-06-02
 
------
+---
 
 ## 7
 
@@ -600,7 +601,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 - 7 beta 3 (11A4414e)
 - 7 beta 2 (11A4400f)
 
-[1]:	https://developer.apple.com/ios/download/
-[2]:	http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
-[3]:	http://www.macrumors.com/2016/06/02/apple-releases-ios-9-3-2-for-9-7-ipad-pro/
-[4]:	http://www.forbes.com/sites/amitchowdhry/2016/10/17/apple-ios-10-0-3-update/#51aa9ae97d53
+[1]: https://developer.apple.com/ios/download/
+[2]: http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
+[3]: http://www.macrumors.com/2016/06/02/apple-releases-ios-9-3-2-for-9-7-ipad-pro/
+[4]: http://www.forbes.com/sites/amitchowdhry/2016/10/17/apple-ios-10-0-3-update/#51aa9ae97d53
