@@ -7,6 +7,10 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 13
 
+### 13.3
+
+- [13.3 beta 1](https://developer.apple.com/documentation/xcode-release-notes/xcode-13_3-release-notes) (13E5086k) - 2022-01-27
+
 ### 13.2
 
 - [13.2.1](https://developer.apple.com/documentation/xcode-release-notes/xcode-13_2-release-notes) (13C100) - 2021-12-17
@@ -213,7 +217,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 - 9.0 beta 2 (9M137d) - 2017-06-21
 - 9.0 beta 1 (9M136h) - 2017-06-05
 
------
+---
 
 ## 8
 
@@ -255,7 +259,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 - 8 beta 2 (8S162m) - 2016-07-05
 - 8 beta 1 (8S128d) - 2016-06-13
 
------
+---
 
 ## 7
 
@@ -299,7 +303,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 - 7 beta 2 (7A121l) - 2015-06-23
 - 7 beta 1 (7A120f) - 2015-06-08 [toolsVersion=8121.17]
 
------
+---
 
 ## 6
 
@@ -356,7 +360,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 - 6 [Beta2] - 6A216f (toolsVersion=6154.21) - 2014-06-17
 - 6 [Beta1] - 6A215l (toolsVersion=6154.17) - 2014-06-02
 
------
+---
 
 ## 5
 
@@ -385,7 +389,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 - 5.0 (DP2) - 5A11315e - 2013-06-24
 - 5.0 (DP1) - 5A11314m - 2013-06-10
 
------
+---
 
 ## 4
 
