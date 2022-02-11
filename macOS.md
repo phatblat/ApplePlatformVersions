@@ -1,7 +1,8 @@
 # macOS
 
 [macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes) and
-[What's new in the updates for macOS Big Sur](https://support.apple.com/en-us/HT211896) contain details on these releases.
+[What's new in the updates for macOS Big Sur](https://support.apple.com/en-in/HT212585) and
+[Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 12 "Monterey"
@@ -12,6 +13,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.2
 
+- [12.2.1](https://support.apple.com/en-us/HT213092) (21D62) - 2022-02-10
 - **[12.2](https://developer.apple.com/documentation/macos-release-notes/macos-12_2-release-notes/)** (21D49) - 2022-01-26
 - [12.2 rc](https://developer.apple.com/documentation/macos-release-notes/macos-12_2-release-notes/) (21D48) - 2022-01-20
 - [12.2 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-12_2-release-notes/) (21D5039d) - 2022-01-11
@@ -44,6 +46,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [12.0 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-12-beta-release-notes/) (21A5248p) - 2021-06-07
 
 ## 11 "Big Sur"
+
+[What's new in the updates for macOS Big Sur](https://support.apple.com/en-us/HT211896) contain details on these releases.
 
 ### 11.6
 
