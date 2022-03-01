@@ -8,6 +8,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.4
 
+- [15.4 beta 5](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L5440a) - 2022-03-01
 - [15.4 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L5436a) - 2022-02-22
 - [15.4 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L5425e) - 2022-02-15
 - [15.4 beta 2](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L5419e) - 2022-02-08
