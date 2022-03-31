@@ -4,10 +4,14 @@
 [About Apple TV 4K and Apple TV HD software updates](https://support.apple.com/en-us/HT207936).
 tvOS releases can be downloaded from [developer.apple.com][1].
 
+- [Whats new in tvOS](https://support.apple.com/guide/tv/whats-new-in-tvos-15-atvb457e13ae/tvos)
+- [Apple security updates](https://support.apple.com/en-us/HT201222)
+
 ## 15
 
 ### 15.4
 
+- 15.4.1 (19L453) - 2022-03-14
 - **[15.4](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes)** (19L440) - 2022-03-14
 - [15.4 rc](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L440) - 2022-03-08
 - [15.4 beta 5](https://developer.apple.com/documentation/tvos-release-notes/tvos-15_4-release-notes) (19L5440a) - 2022-03-01
