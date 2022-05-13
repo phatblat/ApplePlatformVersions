@@ -9,6 +9,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.4
 
+- [12.4 rc](https://developer.apple.com/documentation/macos-release-notes/macos-12_4-release-notes/) (21F79) - 2022-05-12
 - [12.4 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-12_4-release-notes/) (21F5071b) - 2022-05-03
 - [12.4 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-12_4-release-notes/) (21F5063e) - 2022-04-26
 - [12.4 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-12_4-release-notes/) (21F5058e) - 2022-04-19
