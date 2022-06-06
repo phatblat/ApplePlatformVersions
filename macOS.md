@@ -5,6 +5,10 @@
 [Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
+## 13 "Ventura"
+
+- [13.0 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5283p) - 2022-06-06
+
 ## 12 "Monterey"
 
 ### 12.5
