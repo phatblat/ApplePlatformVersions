@@ -16,6 +16,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.5
 
+- [12.5 rc 2](https://developer.apple.com/documentation/macos-release-notes/macos-12_5-release-notes/) (21G72) - 2022-07-18
 - [12.5 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-12_5-release-notes/) (21G5063a) - 2022-07-05
 - [12.5 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-12_5-release-notes/) (21G5056b) - 2022-06-28
 - [12.5 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-12_5-release-notes/) (21G5046d) - 2022-06-14
