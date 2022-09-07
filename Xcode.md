@@ -9,6 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 14.0
 
+- [14.0](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes) (14A309) - 2022-09-07
 - [14.0 beta 6](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes) (14A5294g) - 2022-08-23
 - [14.0 beta 5](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes) (14A5294e) - 2022-08-08
 - [14.0 beta 4](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes) (14A5284g) - 2022-07-27
