@@ -7,7 +7,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 16.1
 
-- [16.1 beta 7](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16-release-notes) (20B5027f) - 2022-08-23
+- [16.1 beta 7](https://developer.apple.com/documentation/ios-ipados-release-notes/ipados-16-release-notes) (20B5027f) - 2022-08-23
 
 ### 16.0
 
