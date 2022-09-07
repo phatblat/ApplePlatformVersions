@@ -22,6 +22,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 [About iOS 15 Updates](https://support.apple.com/en-us/HT212788) and
 [Apple security updates](https://support.apple.com/en-us/HT201222).
 
+### 15.7
+
+- 15.7 rc (19H12) - 2022-09-07
+
 ### 15.6
 
 - [15.6.1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_6-release-notes) (19G82) - 2022-08-17
