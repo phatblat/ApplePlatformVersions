@@ -17,6 +17,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 12 "Monterey"
 
+### 12.6
+
+- 12.6 rc (21G115) - 2022-09-07
+
 ### 12.5
 
 - [12.5.1](https://developer.apple.com/documentation/macos-release-notes/macos-12_5-release-notes/) (21G83) - 2022-08-17
