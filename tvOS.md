@@ -23,6 +23,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.7
 
+- **15.7** (20J373) - 2022-09-12
 - 15.7 rc (20J373) - 2022-09-07
 
 ### 15.6
