@@ -20,6 +20,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.6
 
+- **12.6** (21G115) - 2022-09-12
 - 12.6 rc (21G115) - 2022-09-07
 
 ### 12.5
