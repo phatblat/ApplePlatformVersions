@@ -5,6 +5,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 16
 
+### 16.1
+
+- [16.1 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-16_1-release-notes) (20B5045d) - 2022-09-14
+
 ### 16.0
 
 - **[16.0](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-16-release-notes)** (20A362) - 2022-09-07
