@@ -7,6 +7,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 13 "Ventura"
 
+- [13.0 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5352e) - 2022-09-20
 - [13.0 beta 7](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5342f) - 2022-09-09
 - [13.0 beta 6](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5331f) - 2022-08-25
 - [13.0 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5321d) - 2022-08-08
