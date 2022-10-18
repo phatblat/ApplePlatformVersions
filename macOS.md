@@ -7,18 +7,20 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ## 13 "Ventura"
 
-- [13.0 beta 11](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5373b) - 2022-10-11
-- [13.0 beta 10](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5365d) - 2022-10-04
-- [13.0 beta 9](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5358e) - 2022-09-27
-- [13.0 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5352e) - 2022-09-20
-- [13.0 beta 7](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5342f) - 2022-09-09
-- [13.0 beta 6](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5331f) - 2022-08-25
-- [13.0 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5321d) - 2022-08-08
-- [13.0 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5311f) - 2022-07-27
-- [13.0 beta 3b](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5295j) - 2022-07-11
-- [13.0 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5295h) - 2022-07-06
-- [13.0 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5286j) - 2022-06-22
-- [13.0 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5283p) - 2022-06-06
+- [13 rc](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A379) - 2022-10-18
+- [13 beta 11](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5373b) - 2022-10-11
+- [13 beta 11](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5373b) - 2022-10-11
+- [13 beta 10](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5365d) - 2022-10-04
+- [13 beta 9](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5358e) - 2022-09-27
+- [13 beta 8](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5352e) - 2022-09-20
+- [13 beta 7](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (22A5342f) - 2022-09-09
+- [13 beta 6](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5331f) - 2022-08-25
+- [13 beta 5](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5321d) - 2022-08-08
+- [13 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5311f) - 2022-07-27
+- [13 beta 3b](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5295j) - 2022-07-11
+- [13 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5295h) - 2022-07-06
+- [13 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5286j) - 2022-06-22
+- [13 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) (20A5283p) - 2022-06-06
 
 ## 12 "Monterey"
 
