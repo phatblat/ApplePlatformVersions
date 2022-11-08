@@ -1,4 +1,4 @@
-# macOS
+# 🍎 macOS
 
 [macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes) and
 [What's new in the updates for macOS Big Sur](https://support.apple.com/en-in/HT212585) and
@@ -9,6 +9,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 13.1
 
+- [13.1 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-13_1-release-notes) (22C5044e) - 2022-11-08
 - [13.1 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-13_1-release-notes) (22C5033e) - 2022-10-25
 
 ### 13.0
