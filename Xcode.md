@@ -1,4 +1,4 @@
-# Xcode
+# 🛠️ Xcode
 
 [Xcode Release Notes](https://developer.apple.com/documentation/xcode-release-notes) listing.
 
@@ -6,6 +6,10 @@ Xcode beta releases can be downloaded from [developer.apple.com][1]. GA versions
 or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 14
+
+### 14.2
+
+- [14.2 RC](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_2-release-notes) (14C18) - 2022-12-07
 
 ### 14.1
 
