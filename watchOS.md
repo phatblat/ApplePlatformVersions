@@ -8,6 +8,10 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 [About watchOS 9 Updates](https://support.apple.com/en-us/HT213436)
 
+### 9.3
+
+- [9.3 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-9_3-release-notes) (20S5626e) - 2022-12-14
+
 ### 9.2
 
 - **[9.2](https://developer.apple.com/documentation/watchos-release-notes/watchos-9_2-release-notes)** (20S361) - 2022-12-13
