@@ -3,6 +3,8 @@
 [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes) listing.
 iPadOS releases can be downloaded from [developer.apple.com][1].
 
+- [Apple security updates](https://support.apple.com/en-us/HT201222)
+
 ## 16
 
 - [About iOS 16 Updates](https://support.apple.com/en-us/HT213407)
@@ -14,7 +16,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 16.3
 
-- 16.3.1 (20D67) - 2022-02-13
+- [16.3.1](https://support.apple.com/en-us/HT213635) (20D67) - 2022-02-13
 - **[16.3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes)** (20D47) - 2022-01-23
 - [16.3 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes) (20D5035i) - 2022-01-10
 - [16.3 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes) (20D5024e) - 2022-12-14

@@ -5,6 +5,8 @@
 [Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
+- [Apple security updates](https://support.apple.com/en-us/HT201222)
+
 ## 13 "Ventura"
 
 - [About the security content of macOS Ventura 13](https://support.apple.com/en-us/HT213488)
@@ -16,7 +18,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 13.2
 
-- 13.2.1 (22D68) - 2023-02-13
+- [13.2.1](https://support.apple.com/en-us/HT213633) (22D68) - 2023-02-13
 - **[13.2](https://developer.apple.com/documentation/macos-release-notes/macos-13_2-release-notes)** (22D49) - 2023-01-23
 - [13.2 RC](https://developer.apple.com/documentation/macos-release-notes/macos-13_2-release-notes) (22D49) - 2023-01-18
 - [13.2 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-13_2-release-notes) (22D5038i) - 2023-01-10
