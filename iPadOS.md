@@ -63,7 +63,8 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.7
 
-- 15.7.3 (19H307) - 2023-01-23
+- [15.7.4](https://support.apple.com/en-us/HT213673) (19H321) - 2023-01-27
+- [15.7.3](https://support.apple.com/en-us/HT213598) (19H307) - 2023-01-23
 - 15.7.3 RC (19H307) - 2023-01-18
 - [15.7.2](https://support.apple.com/en-us/HT213531) (19H218) - 2022-12-13
 - [15.7.1](https://support.apple.com/en-us/HT213490) (19H117) - 2022-10-27
