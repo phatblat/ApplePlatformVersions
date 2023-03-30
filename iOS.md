@@ -9,20 +9,24 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 - [About iOS 16 Updates](https://support.apple.com/en-us/HT213407)
 
+### 16.5
+
+- [16.5 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20F5028e) - 2023-03-28
+
 ### 16.4
 
-- **[16.4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes)** (20E247) - 2022-03-27
-- [16.4 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E246) - 2022-03-21
-- [16.4 beta 4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5239b) - 2022-03-15
-- [16.4 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5229e) - 2022-03-07
-- [16.4 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5223e) - 2022-02-28
-- [16.4 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5212f) - 2022-02-16
+- **[16.4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes)** (20E247) - 2023-03-27
+- [16.4 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E246) - 2023-03-21
+- [16.4 beta 4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5239b) - 2023-03-15
+- [16.4 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5229e) - 2023-03-07
+- [16.4 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5223e) - 2023-02-28
+- [16.4 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_4-release-notes) (20E5212f) - 2023-02-16
 
 ### 16.3
 
-- [16.3.1](https://support.apple.com/en-us/HT213635) (20D67) - 2022-02-13
-- **[16.3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes)** (20D47) - 2022-01-23
-- [16.3 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes) (20D5035i) - 2022-01-10
+- [16.3.1](https://support.apple.com/en-us/HT213635) (20D67) - 2023-02-13
+- **[16.3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes)** (20D47) - 2023-01-23
+- [16.3 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes) (20D5035i) - 2023-01-10
 - [16.3 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_3-release-notes) (20D5024e) - 2022-12-14
 
 ### 16.2
