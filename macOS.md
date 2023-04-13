@@ -67,8 +67,12 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 12.6
 
+- [12.6.5](https://support.apple.com/en-us/HT213724) - 2023-04-10
+- [12.6.4](https://support.apple.com/en-us/HT213677) - 2023-03-23
+- [12.6.3](https://support.apple.com/en-us/HT213604) - 2023-01-23
+- [12.6.2](https://support.apple.com/en-us/HT213533) - 2022-12-13
 - 12.6.1 redo? (21G217) - 2022-11-01
-- 12.6.1 (21G217) - 2022-10-24
+- [12.6.1](https://support.apple.com/en-us/HT213494) (21G217) - 2022-10-24
 - **12.6** (21G115) - 2022-09-12
 - 12.6 rc (21G115) - 2022-09-07
 
