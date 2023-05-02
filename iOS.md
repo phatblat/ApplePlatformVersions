@@ -720,4 +720,3 @@ iOS releases can be downloaded from [developer.apple.com][1].
 [1]: https://developer.apple.com/ios/download/
 [2]: http://osxdaily.com/2016/02/18/ios-9-2-1-13d20-for-iphone-ipsw-fix-error-53/
 [3]: http://www.macrumors.com/2016/06/02/apple-releases-ios-9-3-2-for-9-7-ipad-pro/
-[4]: http://www.forbes.com/sites/amitchowdhry/2016/10/17/apple-ios-10-0-3-update/#51aa9ae97d53
