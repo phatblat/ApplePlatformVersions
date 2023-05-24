@@ -9,6 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 14.3
 
+- [14.3.1 RC](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3_1-release-notes)** (14E300b) - 2023-05-17
 - **[14.3](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes)** (14E222b) - 2023-03-30
 - [14.3 rc 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes) (14E222b) - 2023-03-27
 - [14.3 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes) (14E222a) - 2023-03-21
