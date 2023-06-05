@@ -7,6 +7,12 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
+## 14 "Sonoma"
+
+### 14.0
+
+- [14 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes) (21R5275t) - 2023-06-05
+
 ## 13 "Ventura"
 
 - [About the security content of macOS Ventura 13](https://support.apple.com/en-us/HT213488)
