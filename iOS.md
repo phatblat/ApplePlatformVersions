@@ -5,6 +5,12 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
+## 17
+
+### 17.0
+
+- [17 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5248v) - 2023-06-05
+
 ## 16
 
 - [About iOS 16 Updates](https://support.apple.com/en-us/HT213407)
