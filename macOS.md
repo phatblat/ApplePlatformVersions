@@ -5,7 +5,7 @@
 [Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases.
 macOS releases can be downloaded from [developer.apple.com][1].
 
-- [Apple security updates](https://support.apple.com/en-us/HT201222)
+- [Apple security releases](https://support.apple.com/en-us/HT201222)
 
 ## 14 "Sonoma"
 
@@ -31,6 +31,8 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 13.4
 
+- [13.4.1 (c)](https://support.apple.com/en-us/HT213825) (22F770820d) - 2023-07-12
+- [13.4.1 (a)](https://support.apple.com/en-us/HT213827) (?) - 2023-07-10
 - [13.4.1](https://support.apple.com/en-us/HT213813) (22F82 | 22F2083) - 2023-06-21
 - **[13.4](https://developer.apple.com/documentation/macos-release-notes/macos-13_4-release-notes)** (22F66) - 2023-05-24
 - [13.4 rc](https://developer.apple.com/documentation/macos-release-notes/macos-13_4-release-notes) (22F62) - 2023-05-09
