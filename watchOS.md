@@ -10,6 +10,9 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 ### 10.0
 
+- [10 beta 7](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5349b) - 2023-08-22
+- [10 beta 6](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5341c) - 2023-08-15
+- [10 beta 5](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5332f) - 2023-08-08
 - [10 beta 4](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5320i) - 2023-07-25
 - [10 beta 3](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5305e) - 2023-07-05
 - [10 beta 2](https://developer.apple.com/documentation/watchos-release-notes/watchos-10-release-notes) (21R5295g) - 2023-06-21
