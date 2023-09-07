@@ -26,6 +26,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 13.5
 
+- [13.5.2](https://support.apple.com/en-us/HT213906) (22G91) - 2023-09-07
 - [13.5.1](https://support.apple.com/en-us/HT201222) (22G90) - 2023-08-17
 - **[13.5](https://developer.apple.com/documentation/macos-release-notes/macos-13_5-release-notes)** (22G74) - 2023-07-24
 - [13.5 rc](https://developer.apple.com/documentation/macos-release-notes/macos-13_5-release-notes) (22G74) - 2023-07-18
