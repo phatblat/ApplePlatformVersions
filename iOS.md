@@ -23,6 +23,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 - [About iOS 16 Updates](https://support.apple.com/en-us/HT213407)
 
+### 16.7
+
+- 16.7.0 rc (20H18) - 2023-09-12
+
 ### 16.6
 
 - [16.6.1](https://support.apple.com/en-us/HT213905) (20G81) - 2023-09-07
