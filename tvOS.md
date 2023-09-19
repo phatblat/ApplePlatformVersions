@@ -11,7 +11,7 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.0
 
-- **[17](https://support.apple.com/guide/tv/whats-new-in-tvos-17-atvb457e13ae/tvos)** (21J354) - 2023-09-18
+- **[17](https://developer.apple.com/documentation/tvos-release-notes/tvos-17-release-notes)** (21J354) - 2023-09-18
 - [17 rc](https://developer.apple.com/documentation/tvos-release-notes/tvos-17-release-notes) (21J354) - 2023-09-12
 - [17 beta 9](https://developer.apple.com/documentation/tvos-release-notes/tvos-17-release-notes) (21J5354a) - 2023-08-05
 - [17 beta 8](https://developer.apple.com/documentation/tvos-release-notes/tvos-17-release-notes) (21J5353a) - 2023-08-29
