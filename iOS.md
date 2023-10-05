@@ -14,6 +14,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.0
 
+- 17.0.3 (21A360) - 2023-10-04
 - 17.0.2 (21A350 | 21A351) - 2023-09-22 & 09-26
   - 21A350: iPhone 15 (all models)
   - 21A351: iPhone XS and later

@@ -14,6 +14,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.0
 
+- 17.0.3 (21A360) - 2023-10-04
 - 17.0.2 (21A351) - 2023-09-26
   - iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later
 - [17.0.1](https://support.apple.com/en-us/HT213926) (21A340) - 2023-09-21
