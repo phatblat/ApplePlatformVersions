@@ -9,6 +9,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.1
 
+- [17.1 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_1-release-notes) (21B74) - 2023-10-17
 - [17.1 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_1-release-notes) (21B5066a) - 2023-10-10
 - [17.1 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_1-release-notes) (21B5056e) - 2023-10-03
 - [17.1 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_1-release-notes) (21B5045h) - 2023-09-27
@@ -28,8 +29,8 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 - [17 beta 4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5291h) - 2023-07-25
 - 17 beta 3 [again!](https://forums.macrumors.com/threads/ios-17-beta-3-bug-fixes-changes-and-improvements.2395125/) (21A5277j) - 2023-07-11
 - [17 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5277h) - 2023-07-05
-- [17 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5268h) - 2023-06-21
 - [17 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5248v) - 2023-06-05
+- [17 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17-release-notes) (21A5268h) - 2023-06-21
 
 ## 16
 
