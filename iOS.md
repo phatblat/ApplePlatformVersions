@@ -127,6 +127,10 @@ iOS releases can be downloaded from [developer.apple.com][1].
 [About iOS 15 Updates](https://support.apple.com/en-us/HT212788) and
 [Apple security updates](https://support.apple.com/en-us/HT201222).
 
+### 15.8
+
+- 15.8 (19H370) - 2023-10-25
+
 ### 15.7
 
 - [15.7.9](https://support.apple.com/en-us/HT213913) (19H365) - 2023-09-11
