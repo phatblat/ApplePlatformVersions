@@ -18,6 +18,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.1
 
+- [14.1.1](https://developer.apple.com/documentation/macos-release-notes/macos-14_1-release-notes) (23B81 | 23B2082) - 2023-10-07
 - **[14.1](https://developer.apple.com/documentation/macos-release-notes/macos-14_1-release-notes)** (23B74) - 2023-10-25
 - [14.1 rc](https://developer.apple.com/documentation/macos-release-notes/macos-14_1-release-notes) (23B73) - 2023-10-17
 - [14.1 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-14_1-release-notes) (23B5067a) - 2023-10-10
