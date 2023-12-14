@@ -7,6 +7,10 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 15
 
+### 15.2
+
+- [15.2 beta 1](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_2-release-notes) (15C5500c) - 2023-12-12
+
 ### 15.1
 
 - **[15.1](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes)** (15C65) - 2023-12-11
