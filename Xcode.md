@@ -9,6 +9,7 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ### 15.1
 
+- **[15.1](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes)** (15C65) - 2023-12-11
 - [15.1 rc](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes) (15C65) - 2023-12-05
 - [15.1 beta 3](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes) (15C5059c) - 2023-11-14
 - [15.1 beta 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-15_1-release-notes) (15C5042i) - 2023-10-26
