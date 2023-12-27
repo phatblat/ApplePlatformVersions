@@ -54,6 +54,15 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [About the security content of macOS Ventura 13](https://support.apple.com/en-us/HT213488)
 
+### 13.6
+
+<https://support.apple.com/en-us/106337>
+
+- [13.6.3](https://support.apple.com/en-us/HT214038) (22G436) - 2023-12-11
+- 13.6.2 (22G313) - 2023-11-07
+- [13.6.1](https://support.apple.com/en-us/109050) (22G320) - 2023-10-25
+- [13.6.0](https://support.apple.com/en-us/HT213931) (22G120) - 2023-09-21
+
 ### 13.5
 
 - [13.5.2](https://support.apple.com/en-us/HT213906) (22G91) - 2023-09-07
