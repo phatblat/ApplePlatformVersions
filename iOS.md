@@ -9,6 +9,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.3
 
+- [17.3 rc](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_3-release-notes) (21D50) - 2024-01-17
 - [17.3 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_3-release-notes) (21D5044a) - 2024-01-09
 - [17.3 beta 2](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_3-release-notes) (21D5036c) - 2024-01-04
   - [withdrawn](https://mashable.com/article/apple-pulls-ios-17-3-beta-reports-boot-loop-bug)
