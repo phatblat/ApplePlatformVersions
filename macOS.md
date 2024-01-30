@@ -65,6 +65,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 <https://support.apple.com/en-us/106337>
 
+- [13.6.4](https://support.apple.com/en-us/HT214058) (22G513) - 2024-01-22
 - [13.6.3](https://support.apple.com/en-us/HT214038) (22G436) - 2023-12-11
 - 13.6.2 (22G313) - 2023-11-07
 - [13.6.1](https://support.apple.com/en-us/109050) (22G320) - 2023-10-25
