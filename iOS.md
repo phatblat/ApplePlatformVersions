@@ -167,6 +167,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.8
 
+- 15.8.2 (19H384) - 2024-03-05
 - 15.8.2 rc (19H384) - 2024-02-27
 - [15.8.1](https://support.apple.com/en-us/HT214062) (19H380) - 2024-01-22
 - 15.8.1 rc (19H380) - 2024-01-17
