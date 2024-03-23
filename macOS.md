@@ -154,6 +154,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 ### 12.7
 
 - [12.7.4](https://support.apple.com/en-us/HT214083) (21H1111) - 2024-03-07
+- [12.7.3](https://support.apple.com/en-us/HT214057) (21G1967) - 2024-01-22
 - [12.7.2](https://support.apple.com/en-us/HT214037) (21G1974) - 2023-11-14
 - [12.7.1](https://support.apple.com/en-us/HT213983) (21G920) - 2023-10-25
 - [12.7](https://support.apple.com/en-us/HT213932) (21G816) - 2023-09-21
