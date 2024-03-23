@@ -7,6 +7,8 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 17
 
+- [iOS 17 Release History](https://en.wikipedia.org/wiki/IOS_17#Release_history)
+
 ### 17.4
 
 - 17.4.1 (21E236) - 2024-03-21
