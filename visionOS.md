@@ -2,12 +2,14 @@
 
 - [visionOS Developer Documentation](https://developer.apple.com/documentation/visionOS)
 - [visionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
-- [visionOS on Wikipedia](https://en.wikipedia.org/wiki/VisionOS)
+- [visionOS Release History on Wikipedia](https://en.wikipedia.org/wiki/VisionOS#Release_history)
 
 visionOS simulators can be downloaded from [developer.apple.com] as part of
 [Xcode 15 beta 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-15-release-notes).
 
 ## 1
+
+[About visionOS 1 Updates](https://support.apple.com/en-us/118202)
 
 ### 1.2
 
@@ -15,7 +17,8 @@ visionOS simulators can be downloaded from [developer.apple.com] as part of
 
 ### 1.1
 
-- 1.1.1 (21O224) - 2024-03-21
+- 1.1.2 (21O224) - 2024-04-09
+- [1.1.1](https://support.apple.com/en-us/HT214093) (21O224) - 2024-03-21
 - **[1.1](https://support.apple.com/en-us/HT214087)** (21O224) - 2024-03-07
 - [1.1 rc](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_1-release-notes) (21O209) - 2024-03-04
 - [1.1 beta 4](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_1-release-notes) (21O5203a) - 2024-02-27
