@@ -7,6 +7,12 @@
 visionOS simulators can be downloaded from [developer.apple.com] as part of
 [Xcode 15 beta 2](https://developer.apple.com/documentation/xcode-release-notes/xcode-15-release-notes).
 
+## 2
+
+### 2.0
+
+- [2 beta 1](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5252n) - 2026-06-10
+
 ## 1
 
 [About visionOS 1 Updates](https://support.apple.com/en-us/118202)
