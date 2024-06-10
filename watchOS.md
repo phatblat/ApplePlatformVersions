@@ -6,6 +6,12 @@ watchOS releases can be downloaded from [developer.apple.com](https://developer.
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
+## 11
+
+### 11.0
+
+- [11 beta 1](https://developer.apple.com/documentation/watchos-release-notes/watchos-11-release-notes) (22R5284o) - 2026-06-10
+
 ## 10
 
 ### 10.5
