@@ -7,6 +7,12 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 - [Whats new in tvOS](https://support.apple.com/guide/tv/whats-new-in-tvos-17-atvb457e13ae/tvos)
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
+## 18
+
+### 18.0
+
+- [18 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5290l) - 2026-06-10
+
 ## 17
 
 ### 17.5
