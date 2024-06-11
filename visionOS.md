@@ -19,6 +19,7 @@ visionOS simulators can be downloaded from [developer.apple.com] as part of
 
 ### 1.2
 
+- **[1.2](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_2-release-notes)** (21O589) - 2024-07-10
 - [1.2 beta 5](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_2-release-notes) (21O5587a) - 2024-05-07
 - [1.2 beta 4](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_2-release-notes) (21O5580a) - 2024-04-30
 - [1.2 beta 3](https://developer.apple.com/documentation/visionos-release-notes/visionos-1_2-release-notes) (21O5570d) - 2024-04-23
