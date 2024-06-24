@@ -19,6 +19,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [macOS Sonoma Release History](https://en.wikipedia.org/wiki/MacOS_Sonoma#Release_history)
 
+### 14.6
+
+- [14.6 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-14_6-release-notes) (23G5052d) - 2024-06-17
+
 ### 14.5
 
 - **[14.5](https://support.apple.com/en-us/HT214106)** (23F79) - 2024-05-13
