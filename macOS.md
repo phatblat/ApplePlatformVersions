@@ -11,12 +11,16 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [macOS Sonoma Release History](https://en.wikipedia.org/wiki/MacOS_Sequoia#Release_history)
 
+### 15.1
+
+- [15.1 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes) (24B5009l) - 2024-07-29
+
 ### 15.0
 
-- [15 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5298h) - 2026-07-23
-- [15 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5289h) - 2026-07-15
-- [15 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5279h) - 2026-06-24
-- [15 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5264n) - 2026-06-10
+- [15 beta 4](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5298h) - 2024-07-23
+- [15 beta 3](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5289h) - 2024-07-15
+- [15 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5279h) - 2024-06-24
+- [15 beta 1](https://developer.apple.com/documentation/macos-release-notes/macos-15-release-notes) (24A5264n) - 2024-06-10
 
 ## 14 "Sonoma"
 
