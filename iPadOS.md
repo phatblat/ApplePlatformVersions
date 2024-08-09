@@ -24,6 +24,7 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ### 17.6
 
+- [17.6.1](https://support.apple.com/en-us/118702#a1761) (21G93) - 2024-08-05
 - **[17.6](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_6-release-notes)** (21G80) - 2024-07-29
 - [17.6 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_6-release-notes) (21G5066d) - 2024-07-09
 - [17.6 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_6-release-notes) (21G5052e) - 2024-06-17
