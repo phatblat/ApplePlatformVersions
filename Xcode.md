@@ -7,6 +7,10 @@ or in .dmg format from the [Additional Tools][3] area of the site.
 
 ## 16
 
+### 16.1
+
+- [16.1 beta 1](https://developer.apple.com/documentation/xcode-release-notes/xcode-16_1-release-notes) (16B5001e) - 2024-08-13
+
 ### 16.0
 
 - [16 beta 5](https://developer.apple.com/documentation/xcode-release-notes/xcode-16-release-notes) (16A5221g) - 2024-08-05
