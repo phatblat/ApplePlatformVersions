@@ -19,6 +19,8 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ## 17
 
+[About Apple TV 4K and Apple TV HD software updates](https://support.apple.com/en-us/106336)
+
 ### 17.6
 
 - 17.6.1 (21M80) - 2024-08-19
