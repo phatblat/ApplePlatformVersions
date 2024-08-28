@@ -23,9 +23,11 @@ iOS releases can be downloaded from [developer.apple.com][1].
 ## 17
 
 - [iOS 17 Release History](https://en.wikipedia.org/wiki/IOS_17#Release_history)
+- [Abotu iOS 17 Updates](https://support.apple.com/en-us/118723#a1761)
 
 ### 17.6
 
+- [17.6.1](https://support.apple.com/en-us/118723#a1761) again? (21G101) - 2024-08-19
 - [17.6.1](https://support.apple.com/en-us/118723#a1761) (21G93) - 2024-08-05
 - **[17.6](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_6-release-notes)** (21G80) - 2024-07-29
 - [17.6 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-17_6-release-notes) (21G5066d) - 2024-07-09
