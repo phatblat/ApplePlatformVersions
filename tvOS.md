@@ -11,13 +11,13 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ### 18.0
 
-- [18 beta 8](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5356a) - 2026-08-28
-- [18 beta 7](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5353a) - 2026-08-20
-- [18 beta 6](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5346a) - 2026-08-12
-- [18 beta 5](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5335d) - 2026-08-05
-- [18 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5324f) - 2026-07-23
-- [18 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5315e) - 2026-07-08
-- [18 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5290l) - 2026-06-10
+- [18 beta 8](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5356a) - 2024-08-28
+- [18 beta 7](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5353a) - 2024-08-20
+- [18 beta 6](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5346a) - 2024-08-12
+- [18 beta 5](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5335d) - 2024-08-05
+- [18 beta 4](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5324f) - 2024-07-23
+- [18 beta 3](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5315e) - 2024-07-08
+- [18 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-18-release-notes) (22J5290l) - 2024-06-10
 
 ## 17
 

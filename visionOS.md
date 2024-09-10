@@ -11,14 +11,14 @@ visionOS simulators can be downloaded from [developer.apple.com] as part of
 
 ### 2.0
 
-- [2 beta 9](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5319a) - 2026-09-03
-- [2 beta 8](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5318a) - 2026-08-28
-- [2 beta 7](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5314a) - 2026-08-20
-- [2 beta 6](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5308b) - 2026-08-12
-- [2 beta 5](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5297g) - 2026-08-05
-- [2 beta 4](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5286g) - 2026-07-23
-- [2 beta 3](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5277g) - 2026-07-08
-- [2 beta 1](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5252n) - 2026-06-10
+- [2 beta 9](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5319a) - 2024-09-03
+- [2 beta 8](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5318a) - 2024-08-28
+- [2 beta 7](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5314a) - 2024-08-20
+- [2 beta 6](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5308b) - 2024-08-12
+- [2 beta 5](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5297g) - 2024-08-05
+- [2 beta 4](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5286g) - 2024-07-23
+- [2 beta 3](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5277g) - 2024-07-08
+- [2 beta 1](https://developer.apple.com/documentation/visionos-release-notes/visionos-2-release-notes) (22N5252n) - 2024-06-10
 
 ## 1
 
