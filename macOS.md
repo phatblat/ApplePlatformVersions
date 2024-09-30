@@ -38,6 +38,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 14.7
 
+- 14.7.1 rc (23H209) - 2024-09-23
 - [14.7.0](https://support.apple.com/en-us/109035) (23H124) - 2024-09-16
 
 ### 14.6
