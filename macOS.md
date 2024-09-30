@@ -110,6 +110,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 - [About the security content of macOS Ventura 13](https://support.apple.com/en-us/HT213488)
 - [macOS Ventura Release History](https://en.wikipedia.org/wiki/MacOS_Ventura#Release_history)
 
+### 13.7
+
+- [13.7.0](https://support.apple.com/en-us/121234) (22H123) - 2024-09-16
+
 ### 13.6
 
 <https://support.apple.com/en-us/106337>
