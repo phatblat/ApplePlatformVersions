@@ -9,6 +9,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 18.1
 
+- [18.1 beta 7](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_1-release-notes) (22B5075a) - 2024-10-14
 - [18.1 beta 5](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_1-release-notes) (22B5054e) - 2024-09-23
 - [18.1 beta 4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_1-release-notes) (22B5045) - 2024-09-17
 - [18.1 beta 3](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_1-release-notes) (22B5034e) - 2024-08-28
