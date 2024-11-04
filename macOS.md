@@ -11,6 +11,10 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 - [macOS Sonoma Release History](https://en.wikipedia.org/wiki/MacOS_Sequoia#Release_history)
 
+### 15.2
+
+- [15.2 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-15_2-release-notes) (24C5073e) - 2024-11-04
+
 ### 15.1
 
 - **[15.1](https://developer.apple.com/documentation/macos-release-notes/macos-15_1-release-notes)** (24B2083) - 2024-10-28
