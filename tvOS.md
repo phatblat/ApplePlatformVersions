@@ -9,6 +9,10 @@ tvOS releases can be downloaded from [developer.apple.com][1].
 
 ## 18
 
+### 18.3
+
+- [18.3 beta 1](https://developer.apple.com/documentation/tvos-release-notes/tvos-18_3-release-notes) (22K5534e) - 2024-12-16
+
 ### 18.2
 
 - **[18.2](https://developer.apple.com/documentation/tvos-release-notes/tvos-18_2-release-notes)** (22K155) - 2024-12-11
