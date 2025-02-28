@@ -17,6 +17,7 @@ macOS releases can be downloaded from [developer.apple.com][1].
 
 ### 15.3
 
+- 15.3.1 (24D70) - 2025-02-10
 - **[15.3](https://developer.apple.com/documentation/macos-release-notes/macos-15_3-release-notes)** (24D60) - 2025-01-27
 - [15.3 beta 2](https://developer.apple.com/documentation/macos-release-notes/macos-15_3-release-notes) (24D5040f) - 2025-01-07
 
