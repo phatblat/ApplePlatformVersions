@@ -150,6 +150,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ### 16.7
 
+- [16.7.11](https://support.apple.com/en-us/122346) (20H390) - 2025-03-31
 - [16.7.8](https://support.apple.com/en-us/HT214100) (20H343) - 2024-05-13
 - 16.7.8 RC (20H343) - 2024-05-07
 - 16.7.7 (20H330) - 2024-03-21
