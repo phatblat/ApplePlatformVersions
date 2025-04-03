@@ -7,6 +7,10 @@ iPadOS releases can be downloaded from [developer.apple.com][1].
 
 ## 18
 
+### 18.5
+
+- [18.5 beta 1](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_5-release-notes) (22F5042g) - 2025-04-02
+
 ### 18.4
 
 - **[18.4](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-18_4-release-notes)** (22E240) - 2025-03-31
