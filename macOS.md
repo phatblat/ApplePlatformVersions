@@ -1,9 +1,7 @@
 # 🍎 macOS
 
-[macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes) and
-[What's new in the updates for macOS Big Sur](https://support.apple.com/en-in/HT212585) and
-[Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases.
-macOS releases can be downloaded from [developer.apple.com][1].
+[macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes) and [What's new in the updates for macOS Big Sur](https://support.apple.com/en-in/HT212585) and
+[Apple security updates](https://support.apple.com/en-us/HT201222) contain details on these releases. macOS releases can be downloaded from [developer.apple.com][1].
 
 - [Apple security releases](https://support.apple.com/en-us/HT201222)
 

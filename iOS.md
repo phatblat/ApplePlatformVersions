@@ -1,7 +1,6 @@
 # 🍏 iOS
 
-[iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes) listing.
-iOS releases can be downloaded from [developer.apple.com][1].
+[iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes) listing. iOS releases can be downloaded from [developer.apple.com][1].
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
@@ -253,8 +252,7 @@ iOS releases can be downloaded from [developer.apple.com][1].
 
 ## 15
 
-[About iOS 15 Updates](https://support.apple.com/en-us/HT212788) and
-[Apple security updates](https://support.apple.com/en-us/HT201222).
+[About iOS 15 Updates](https://support.apple.com/en-us/HT212788) and [Apple security updates](https://support.apple.com/en-us/HT201222).
 
 ### 15.8
 

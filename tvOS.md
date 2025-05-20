@@ -1,8 +1,7 @@
 # 📺 tvOS
 
-[tvOS Release Notes](https://developer.apple.com/documentation/tvos-release-notes) listing.
-[About Apple TV 4K and Apple TV HD software updates](https://support.apple.com/en-us/HT207936).
-tvOS releases can be downloaded from [developer.apple.com][1].
+[tvOS Release Notes](https://developer.apple.com/documentation/tvos-release-notes) listing. [About Apple TV 4K and Apple TV HD software updates](https://support.apple.com/en-us/HT207936). tvOS
+releases can be downloaded from [developer.apple.com][1].
 
 - [Whats new in tvOS](https://support.apple.com/guide/tv/whats-new-in-tvos-17-atvb457e13ae/tvos)
 - [Apple security updates](https://support.apple.com/en-us/HT201222)

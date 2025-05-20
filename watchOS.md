@@ -1,8 +1,7 @@
 # ⌚️ watchOS
 
-If the links below don't work, details can be found on the
-[watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) page.
-watchOS releases can be downloaded from [developer.apple.com](https://developer.apple.com/watchos/download/).
+If the links below don't work, details can be found on the [watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes) page. watchOS releases can be downloaded from
+[developer.apple.com](https://developer.apple.com/watchos/download/).
 
 - [Apple security updates](https://support.apple.com/en-us/HT201222)
 
