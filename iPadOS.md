@@ -67,7 +67,9 @@
 
 ### 17.7
 
-- [17.7.6](https://support.apple.com/en-us/122372) (21H423) - 2025-03-24
+- 17.7.8 (21H440) - 2025-05-19
+- [17.7.7](https://support.apple.com/en-us/122405) (21H433) - 2025-05-12
+- [17.7.6](https://support.apple.com/en-us/122372) (21H423) - 2025-05-12
 - [17.7.5](https://support.apple.com/en-us/122173) (21H420) - 2025-02-10
 - [17.7.4](https://support.apple.com/en-us/100100) (21H414) - 2025-01-27
 - [17.7.3](https://support.apple.com/en-us/121838) (21H312) - 2024-12-11
